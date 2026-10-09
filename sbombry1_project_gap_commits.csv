@@ -1,0 +1,475 @@
+project_normalized,commit message,pre/post,author,time
+arfc/pride,"reviewing min/max capacity/activity constraints
+",pre,robfairh <ref3@illinois.edu>,1616092963
+arfc/pride,"Merge remote-tracking branch 'arfc/master' into assumptions
+",pre,robfairh <ref3@illinois.edu>,1616093131
+arfc/pride,"cleaning assumptions
+",pre,robfairh <ref3@illinois.edu>,1616093156
+arfc/pride,"verified MaxCapacity
+",pre,robfairh <ref3@illinois.edu>,1616094970
+arfc/pride,"lifetimeprocess and loan
+",pre,robfairh <ref3@illinois.edu>,1616098591
+arfc/pride,"working on lifetimetech
+",pre,robfairh <ref3@illinois.edu>,1616099074
+arfc/pride,"moves old files to different folder, adds mga config
+",pre,samgdotson <sgd2@illinois.edu>,1616514747
+arfc/pride,"Merge 083312417ebfa45acd0e2af281dcf3ec25958397 into febc412722cc593d8c010358a1230ab38726e252
+",pre,Roberto Fairhurst <ref3@illinois.edu>,1616618694
+arfc/pride,"adds exploration notebook for renewable energy correlations
+",pre,samgdotson <sgd2@illinois.edu>,1616699283
+arfc/pride,"Merge a12679f62df5bfbe1c39221b9a7501ff63558673 into febc412722cc593d8c010358a1230ab38726e252
+",pre,Sam Dotson <44342873+samgdotson@users.noreply.github.com>,1625654223
+arfc/pride,"Merge pull request #172 from samgdotson/master
+
+gitattributes",post,Sam Dotson <44342873+samgdotson@users.noreply.github.com>,1709684529
+arfc/pride,"Merge a12679f62df5bfbe1c39221b9a7501ff63558673 into fdd5e779f58c81632142c25273227755d3d3b784
+",post,Sam Dotson <44342873+samgdotson@users.noreply.github.com>,1716385791
+arfc/pride,"Merge 083312417ebfa45acd0e2af281dcf3ec25958397 into fdd5e779f58c81632142c25273227755d3d3b784
+",post,Roberto Fairhurst <ref3@illinois.edu>,1718205589
+arfc/pride,Merge branch 'master' into paper-dev,post,Sam Dotson <44342873+samgdotson@users.noreply.github.com>,1739295133
+arfc/pride,"Merge pull request #90 from samgdotson/paper-dev
+
+Optimal Sizing: 50% draft",post,Sam Dotson <44342873+samgdotson@users.noreply.github.com>,1739295166
+arfc/pride,"Merge 083312417ebfa45acd0e2af281dcf3ec25958397 into c0179b459746847279a50a27ecb48aa3378b93e2
+",post,Roberto Fairhurst <ref3@illinois.edu>,1740328556
+fairrootgroup/fairroot,"fix(base): Do not copy FairModule::vList
+
+The copy ctor tried to copy vList.
+
+But this is a thread local variable.  So either it already
+exists, then nothing happens in the current code.
+Otherwise a new (empty) one is created and then copied into
+itself.
+
+Not to mention it copies an owning raw pointer into another
+owning raw pointer.
+",pre,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1715592262
+fairrootgroup/fairroot,"test(geobase): Don't stop test execution on failure
+",pre,Florian Uhlig <f.uhlig@gsi.de>,1715692561
+fairrootgroup/fairroot,"test(geobase): Don't stop test execution on failure
+",pre,Florian Uhlig <f.uhlig@gsi.de>,1715692561
+fairrootgroup/fairroot,"test(geobase): Add tests to for the shape classes
+
+In the current state only the constructor and the input from file and the
+output to file and screen are tested. The correctness of the output to
+screen isn't yet checked.
+
+Add helpers to generate and handle the needed input files on the fly.
+",pre,Florian Uhlig <f.uhlig@gsi.de>,1715693154
+fairrootgroup/fairroot,"test(geobase): Add tests to for the shape classes
+
+In the current state only the constructor and the input from file and the
+output to file and screen are tested. The correctness of the output to
+screen isn't yet checked.
+
+Add helpers to generate and handle the needed input files on the fly.
+",pre,Florian Uhlig <f.uhlig@gsi.de>,1715693154
+fairrootgroup/fairroot,"refactor(generators): FairShieldGenerator::RegisterIons
+
+- The fIonMap member variable is not needed as a member
+  variable. This is only needed in RegisterIons
+- Rewrite using a set.
+",pre,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1715705180
+fairrootgroup/fairroot,"refactor(generators): FairShieldGenerator::RegisterIons
+
+- The fIonMap member variable is not needed as a member
+  variable. This is only needed in RegisterIons
+- Rewrite using a set.
+",pre,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1715705180
+fairrootgroup/fairroot,"refactor(generators): Some general cleanups in FairShieldGenerator
+
+- Turn ifstream into value member
+- use std::string to keep local copy of filename
+- Add override
+",pre,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1715844626
+fairrootgroup/fairroot,"refactor(generators): Some general cleanups in FairShieldGenerator
+
+- Turn ifstream into value member
+- use std::string to keep local copy of filename
+- Add override
+",pre,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1715844626
+fairrootgroup/fairroot,"Bump v19.0.0
+",pre,Radoslaw Karabowicz <r.karabowicz@gsi.de>,1715940480
+fairrootgroup/fairroot,"fix(workflow): Stale needs more Operations
+
+The last run used 4 operations and did not even post a
+comment. So raise this to 5 (from 2).
+",post,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1750067136
+fairrootgroup/fairroot,"feat(workflow): Add stale comment messages
+
+Also let the bot post a message about what it is doing.
+",post,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1750710557
+fairrootgroup/fairroot,"fix(workflow/stale): More Permissions needed
+
+To delete / update its cache the stale workflow needs more
+permissions.
+
+See-Also: https://github.com/actions/stale/issues/1159
+",post,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1752095452
+fairrootgroup/fairroot,"fix(build): Properly pass CMAKE_OSX_SYSROOT to rootcint
+
+This change allows to build dictionaries with a non default macosx
+software development package (SDK). This is needed to be able to
+compile older ROOT versions on new compiler versions.
+",post,Florian Uhlig <f.uhlig@gsi.de>,1752226682
+fairrootgroup/fairroot,"fix(build): Properly pass CMAKE_OSX_SYSROOT to rootcint
+
+This change allows to build dictionaries with a non default macosx
+software development package (SDK). This is needed to be able to
+compile older ROOT versions on new compiler versions.
+
+(cherry picked from commit 53782ee7901d2c7e87c0431236e817a7ff8f03c9)
+",post,Florian Uhlig <f.uhlig@gsi.de>,1752226682
+fairrootgroup/fairroot,"fix(build): Properly pass CMAKE_OSX_SYSROOT to rootcint
+
+This change allows to build dictionaries with a non default macosx
+software development package (SDK). This is needed to be able to
+compile older ROOT versions on new compiler versions.
+
+(cherry picked from commit 53782ee7901d2c7e87c0431236e817a7ff8f03c9)
+",post,Florian Uhlig <f.uhlig@gsi.de>,1752226682
+fairrootgroup/fairroot,"fix(build): Properly pass CMAKE_OSX_SYSROOT to rootcint
+
+This change allows to build dictionaries with a non default macosx
+software development package (SDK). This is needed to be able to
+compile older ROOT versions on new compiler versions.
+",post,Florian Uhlig <f.uhlig@gsi.de>,1752226682
+fairrootgroup/fairroot,"fix(build): Properly pass CMAKE_OSX_SYSROOT to rootcint
+
+This change allows to build dictionaries with a non default macosx
+software development package (SDK). This is needed to be able to
+compile older ROOT versions on new compiler versions.
+
+(cherry picked from commit 53782ee7901d2c7e87c0431236e817a7ff8f03c9)
+",post,Florian Uhlig <f.uhlig@gsi.de>,1752226682
+fairrootgroup/fairroot,"fix(build): Properly pass CMAKE_OSX_SYSROOT to rootcint
+
+This change allows to build dictionaries with a non default macosx
+software development package (SDK). This is needed to be able to
+compile older ROOT versions on new compiler versions.
+",post,Florian Uhlig <f.uhlig@gsi.de>,1752226682
+fairrootgroup/fairroot,"fix(build): Properly pass CMAKE_OSX_SYSROOT to rootcint
+
+This change allows to build dictionaries with a non default macosx
+software development package (SDK). This is needed to be able to
+compile older ROOT versions on new compiler versions.
+
+(cherry picked from commit 53782ee7901d2c7e87c0431236e817a7ff8f03c9)
+",post,Florian Uhlig <f.uhlig@gsi.de>,1752226682
+gabinsane/multimodal-vae-comparison,Update README.md,pre,Gabriela Sejnova <38910946+gabinsane@users.noreply.github.com>,1697795228
+gabinsane/multimodal-vae-comparison,"pl lightning 2.0 compatibility
+",pre,Gabriela Sejnova <sejnogab@gpu1.felk.cvut.cz>,1698147854
+gabinsane/multimodal-vae-comparison,"pl lightning 2.0 compatibility
+",pre,Gabriela Sejnova <sejnogab@gpu1.felk.cvut.cz>,1698147914
+gabinsane/multimodal-vae-comparison,Update README.md,pre,Gabriela Sejnova <38910946+gabinsane@users.noreply.github.com>,1698148959
+gabinsane/multimodal-vae-comparison,Update README.md,pre,Gabriela Sejnova <38910946+gabinsane@users.noreply.github.com>,1701251108
+gabinsane/multimodal-vae-comparison,Update README.md,pre,Gabriela Sejnova <38910946+gabinsane@users.noreply.github.com>,1701251179
+gabinsane/multimodal-vae-comparison,"eval scripts, fixes
+",pre,Gabriela Šejnová <g.sejnova@gmail.com>,1701262220
+gabinsane/multimodal-vae-comparison,"docs
+",pre,Gabriela Šejnová <g.sejnova@gmail.com>,1710430373
+gabinsane/multimodal-vae-comparison,Update README.md,pre,Gabriela Sejnova <38910946+gabinsane@users.noreply.github.com>,1711376239
+gabinsane/multimodal-vae-comparison,"docs update
+",pre,Gabriela Šejnová <g.sejnova@gmail.com>,1711376511
+gabinsane/multimodal-vae-comparison,"updates
+",post,GabrielaSejnova <gabriela.sejnova@cvut.cz>,1747688929
+gabinsane/multimodal-vae-comparison,"update README
+",post,GabrielaSejnova <gabriela.sejnova@cvut.cz>,1747688996
+gabinsane/multimodal-vae-comparison,"bug fixes
+",post,GabrielaSejnova <gabriela.sejnova@cvut.cz>,1747690487
+geoknow/linkedgeodata,"Upgraded mappings to geosparql (no more geovocab).
+Goodbye /triplify - Hello /resource
+",pre,Claus Stadler <RavenArkadon@googlemail.com>,1652884688
+geoknow/linkedgeodata,"Updated mapping file path in sparqlify docker container
+",pre,Claus Stadler <RavenArkadon@googlemail.com>,1652889292
+geoknow/linkedgeodata,"Replaced 'triplify' with 'resource' in pubby config
+",pre,Claus Stadler <RavenArkadon@googlemail.com>,1652889926
+geoknow/linkedgeodata,"Bump gson from 2.2.2 to 2.8.9 in /legacy
+
+Bumps [gson](https://github.com/google/gson) from 2.2.2 to 2.8.9.
+- [Release notes](https://github.com/google/gson/releases)
+- [Changelog](https://github.com/google/gson/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/google/gson/compare/gson-2.2.2...gson-parent-2.8.9)
+
+---
+updated-dependencies:
+- dependency-name: com.google.code.gson:gson
+  dependency-type: direct:production
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>",pre,dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>,1653084820
+geoknow/linkedgeodata,"Towards sophox compatibility
+",pre,Claus Stadler <RavenArkadon@googlemail.com>,1654620995
+geoknow/linkedgeodata,"First working sophox compatibility (only tested with standalone mappings; not tested with docker setup)
+",pre,Claus Stadler <RavenArkadon@googlemail.com>,1654691354
+geoknow/linkedgeodata,"Added support for local datasets; tuning of default postgres config
+",pre,Claus Stadler <RavenArkadon@googlemail.com>,1654794066
+geoknow/linkedgeodata,"Gometry view now properly prioritizes polygons of nominatim over the raw ones
+",pre,Claus Stadler <RavenArkadon@googlemail.com>,1654816627
+geoknow/linkedgeodata,Update imprint.md,pre,Jens Lehmann <jens.lehmann@cs.uni-bonn.de>,1665649609
+geoknow/linkedgeodata,linked to all downloads,pre,Jens Lehmann <jens.lehmann@cs.uni-bonn.de>,1665839997
+geoknow/linkedgeodata,"Merge eb2db207ddc516309f077c67021168608e7aade8 into 6bb4ad792eae49cf6dc0f9c61fea37fc9ff28bda
+",post,dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>,1732125354
+geospace-code/pymap3d,"ci: latest actions
+",pre,Michael Hirsch <scivision@users.noreply.github.com>,1706424853
+geospace-code/pymap3d,"simplify publish
+",pre,scivision <scivision@users.noreply.github.com>,1706500283
+geospace-code/pymap3d,"tests: trap matlab engine runtimeerror
+",pre,scivision <scivision@users.noreply.github.com>,1706501003
+geospace-code/pymap3d,"test_aer: scalar output verify
+",pre,scivision <scivision@users.noreply.github.com>,1706501945
+geospace-code/pymap3d,"ecef2geodetic: scalar-in, scalar-out
+fixes #93
+",pre,scivision <scivision@users.noreply.github.com>,1706502982
+geospace-code/pymap3d,"test{aer,geodetic,ned} verify scalar-in,scalar-out
+",pre,scivision <scivision@users.noreply.github.com>,1706503003
+geospace-code/pymap3d,"ecef2geodetic: avoid NaN and needless computation
+attempt to fix #87
+",pre,scivision <scivision@users.noreply.github.com>,1706504931
+geospace-code/pymap3d,"Ellipsoid: canonical default instead of None
+",pre,scivision <scivision@users.noreply.github.com>,1707612001
+geospace-code/pymap3d,"enu2ecefv
+",pre,Ashwin Gupta <ashwingupta2000@gmail.com>,1715109879
+geospace-code/pymap3d,"enu2ecefv
+",pre,Ashwin Gupta <ashwingupta2000@gmail.com>,1715109879
+geospace-code/pymap3d,"ecef2eci: scalar output for scalar input with Numpy backend
+
+add test for Numpy and AstroPy backends
+",post,scivision <scivision@users.noreply.github.com>,1736313348
+geospace-code/pymap3d,"no Numpy: better error msg on eci*ecef funcs
+",post,scivision <scivision@users.noreply.github.com>,1736313738
+geospace-code/pymap3d,"sidereal: add test and functionalize
+",post,scivision <scivision@users.noreply.github.com>,1736314285
+geospace-code/pymap3d,"azel*radec: test, functionalize Vallado non-Astropy
+",post,scivision <scivision@users.noreply.github.com>,1736315022
+geospace-code/pymap3d,"ci: also test Python 3.13
+",post,scivision <scivision@users.noreply.github.com>,1736315365
+geospace-code/pymap3d,"restore import of .latitude and .rcurve
+
+Python import mechanism and computers are faster now than several years ago
+
+fixes #97
+",post,scivision <scivision@users.noreply.github.com>,1736315777
+geospace-code/pymap3d,"ci: handle minimum python on runner images
+",post,scivision <scivision@users.noreply.github.com>,1736316238
+geospace-code/pymap3d,"Adding support for downrange-crossrange-above coordinate conversions with dca.py
+",post,Ryan Pavlick <ryan.pavlick@gmail.com>,1737696919
+geospace-code/pymap3d,"adding nvector module
+",post,Ryan Pavlick <ryan.pavlick@gmail.com>,1740540503
+geospace-code/pymap3d,"adding nvector module
+",post,Ryan Pavlick <ryan.pavlick@gmail.com>,1740540972
+mansmeg/posteriordb,"Merge pull request #239 from stan-dev/development
+
+Development",pre,Måns Magnusson <MansMeg@users.noreply.github.com>,1631271949
+mansmeg/posteriordb,"fix
+",pre,Måns Magnusson <mons.magnusson@gmail.com>,1631275251
+mansmeg/posteriordb,"Minor fix
+",pre,Måns Magnusson <mons.magnusson@gmail.com>,1631275381
+mansmeg/posteriordb,"Merge branch 'master' of https://github.com/MansMeg/posterior_database into development
+",pre,Måns Magnusson <mons.magnusson@gmail.com>,1631275405
+mansmeg/posteriordb,"GA fixes
+",pre,Måns Magnusson <mons.magnusson@gmail.com>,1631275675
+mansmeg/posteriordb,"Added badge
+",pre,Måns Magnusson <mons.magnusson@gmail.com>,1631277813
+mansmeg/posteriordb,"Add space between badges
+",pre,Måns Magnusson <mons.magnusson@gmail.com>,1631277862
+mansmeg/posteriordb,"Update README
+",pre,Måns Magnusson <mons.magnusson@gmail.com>,1631719572
+mansmeg/posteriordb,"Minor fixes
+",pre,Måns Magnusson <mons.magnusson@gmail.com>,1632141851
+mansmeg/posteriordb,"Updated README
+",pre,Måns Magnusson <mons.magnusson@gmail.com>,1632143005
+mansmeg/posteriordb,"Merge branch 'KaneLindsay-master' into development
+",post,Måns Magnusson <mons.magnusson@gmail.com>,1660048626
+mansmeg/posteriordb,"fix bibtex file
+",post,Måns Magnusson <mons.magnusson@gmail.com>,1660051408
+mansmeg/posteriordb,"Update fixes
+",post,Måns Magnusson <mons.magnusson@gmail.com>,1660063982
+mansmeg/posteriordb,"Updates
+",post,Måns Magnusson <mons.magnusson@gmail.com>,1660064455
+mansmeg/posteriordb,"Add dogs models
+",post,Måns Magnusson <mons.magnusson@gmail.com>,1660307617
+mansmeg/posteriordb,"Update CONTRIBUTING.md
+",post,Måns Magnusson <mons.magnusson@gmail.com>,1660314024
+mansmeg/posteriordb,"Updated the content file
+",post,Måns Magnusson <mons.magnusson@gmail.com>,1660314792
+mansmeg/posteriordb,"Update dogs data and remove reference posteriors
+",post,Måns Magnusson <mons.magnusson@gmail.com>,1660582457
+mansmeg/posteriordb,"Fixes pdb
+",post,Måns Magnusson <mons.magnusson@gmail.com>,1660592388
+mansmeg/posteriordb,"Final fixes
+",post,Måns Magnusson <mons.magnusson@gmail.com>,1660592411
+markmfredrickson/optmatch,"Deploying to gh-pages from @ markmfredrickson/optmatch@609549879cabf1b60fefa497ea22f21fc60f0bb3 🚀
+",pre,josherrickson <josh@errickson.net>,1699470932
+markmfredrickson/optmatch,"#234 match.on@call adjustments to mdist
+",pre,Josh Errickson <josh@errickson.net>,1699470943
+markmfredrickson/optmatch,"Deploying to gh-pages from @ markmfredrickson/optmatch@f7daec5ba326b65ce59819654cda4c4e1cac9f56 🚀
+",pre,josherrickson <josh@errickson.net>,1699471163
+markmfredrickson/optmatch,"Incremment version; update cran-comments for 0.10.7 release
+",pre,Josh Errickson <josh@errickson.net>,1700012866
+markmfredrickson/optmatch,"Version number to dev
+",pre,Josh Errickson <josh@errickson.net>,1700013566
+markmfredrickson/optmatch,"Deploying to gh-pages from @ markmfredrickson/optmatch@0e18cb5b072625ec80aa0474f5988668959733b1 🚀
+",pre,josherrickson <josh@errickson.net>,1700013774
+markmfredrickson/optmatch,"Fixing version number of NEWS
+",pre,Josh Errickson <josh@errickson.net>,1700044926
+markmfredrickson/optmatch,"Deploying to gh-pages from @ markmfredrickson/optmatch@32e7d61f806a5e3fa9b573c2ae9a33510c7ba6e7 🚀
+",pre,josherrickson <josh@errickson.net>,1700045181
+markmfredrickson/optmatch,"Deploying to gh-pages from @ markmfredrickson/optmatch@921fbaccfaed2f2bf93a313803c5c6c30ee6c703 🚀
+",pre,josherrickson <josherrickson@users.noreply.github.com>,1700045855
+markmfredrickson/optmatch,"Update DESCRIPTION
+
+Fix Remotes: so that we don't get an ""incomplete final line"" error in R 4.3.2",pre,Jake Bowers <jwbowers@users.noreply.github.com>,1700708517
+markmfredrickson/optmatch,"Deploying to gh-pages from @ markmfredrickson/optmatch@280fe5072e2eeb90d86211abf432d5f0f3cc5ab4 🚀
+",post,benthestatistician <bbh@umich.edu>,1723481481
+markmfredrickson/optmatch,"Adding internal roxygen tags to satisfy CRAN check
+",post,Josh Errickson <josh@errickson.net>,1724080038
+markmfredrickson/optmatch,"Deploying to gh-pages from @ markmfredrickson/optmatch@1403fa58381d6978fac4dc4252c04b3464a286d1 🚀
+",post,josherrickson <josh@errickson.net>,1724080202
+markmfredrickson/optmatch,"merging modified master with nodeprices branch
+",post,Adam Rauh <adam.rauh1@gmail.com>,1724089705
+markmfredrickson/optmatch,"simplifying feasibility update status, reducing reliance on NULL MCFSolution
+",post,Adam Rauh <adam.rauh1@gmail.com>,1724215269
+markmfredrickson/optmatch,"removing feas.status tag
+",post,Adam Rauh <adam.rauh1@gmail.com>,1724215936
+markmfredrickson/optmatch,"Attempt to fix C errors on Rdevel
+",post,Josh Errickson <josh@errickson.net>,1724230686
+markmfredrickson/optmatch,"Deploying to gh-pages from @ markmfredrickson/optmatch@a133695cfe11754e660e28d04f48563934475d0d 🚀
+",post,josherrickson <josh@errickson.net>,1724230841
+markmfredrickson/optmatch,"Bumping GHA version
+",post,Josh Errickson <josh@errickson.net>,1724232329
+markmfredrickson/optmatch,"Another attempt at a fix, following https://github.com/hadley/r-internals
+",post,Josh Errickson <josh@errickson.net>,1724232345
+nexpy/nexpy,"Default to the root/entry of the selected node
+",pre,Ray Osborn <rayosborn@mac.com>,1647714224
+nexpy/nexpy,"Default to the root of the selected node.
+",pre,Ray Osborn <rayosborn@mac.com>,1647714834
+nexpy/nexpy,"Merge pull request #363 from rayosborn/improve-entry-selection
+
+Improve root/entry selection in pull-down menus",pre,Ray Osborn <rayosborn@mac.com>,1647717788
+nexpy/nexpy,"Add option to plot weighted projections
+",pre,Ray Osborn <rayosborn@mac.com>,1649782730
+nexpy/nexpy,"Set project weight default based on original plot
+",pre,Ray Osborn <rayosborn@mac.com>,1649860119
+nexpy/nexpy,"Merge pull request #364 from rayosborn/weight-projections
+
+Weighted projection plots",pre,Ray Osborn <rayosborn@mac.com>,1649861012
+nexpy/nexpy,"Update requirements for nexusformat
+",pre,Ray Osborn <rayosborn@mac.com>,1651088140
+nexpy/nexpy,"Merge pull request #365 from rayosborn/update-requirements
+
+Update requirements for nexusformat",pre,Ray Osborn <rayosborn@mac.com>,1651161648
+nexpy/nexpy,"rebuilt docs
+",pre,Ray Osborn <rayosborn@mac.com>,1651269039
+nexpy/nexpy,"rebuilt docs
+",pre,Ray Osborn <rayosborn@mac.com>,1651269868
+nexpy/nexpy,"Fix matplotlib v3.6 compatibility
+",post,Ray Osborn <rayosborn@mac.com>,1661368023
+nexpy/nexpy,"Fix f-string error
+",post,Ray Osborn <rayosborn@mac.com>,1661374394
+nexpy/nexpy,"Fix bug in masking fitted points
+",post,Ray Osborn <rayosborn@mac.com>,1661375926
+nexpy/nexpy,"Make colormaps backwardly compatible
+
+This maintains support for versions of Matplotlib before 3.5.
+",post,Ray Osborn <rayosborn@mac.com>,1661439910
+nexpy/nexpy,"Merge pull request #368 from rayosborn/fix-mpl-compatibility
+
+Fix mpl compatibility",post,Ray Osborn <rayosborn@mac.com>,1661452567
+nexpy/nexpy,"Update dependencies
+",post,Ray Osborn <rayosborn@mac.com>,1662047356
+nexpy/nexpy,"Merge pull request #369 from rayosborn/final-preparations
+
+Update dependencies",post,Ray Osborn <rayosborn@mac.com>,1662049647
+nexpy/nexpy,"Fix case where the scan variable is not present
+",post,Ray Osborn <rayosborn@mac.com>,1663010671
+nexpy/nexpy,"Stop using temporary file for the virtual dataset
+
+The virtual field is small enough that it can be stored in memory.
+",post,Ray Osborn <rayosborn@mac.com>,1663010727
+nexpy/nexpy,"Fix Conda recipe for ipykernel dependency.
+",post,Ray Osborn <rayosborn@mac.com>,1663010760
+statistikat/vim,"Deploying to gh-pages from @ statistikat/VIM@f8bcb4840bc931ff018c463d5bf29eb007f3bf38 🚀
+",pre,alexkowa <alex@kowarik.net>,1721208879
+statistikat/vim,"added some additional functionalities
+",pre,BirgitKarlhuber <birgit@karlhuber.net>,1722323192
+statistikat/vim,"Merge pull request #87 from statistikat/master
+
+Update from Master",pre,Alexander Kowarik <alex@kowarik.net>,1722404478
+statistikat/vim,Merge branch 'pmm_it_all' into pmm_it_all,pre,Alexander Kowarik <alex@kowarik.net>,1722404540
+statistikat/vim,"Merge pull request #86 from BirgitKarlhuber/pmm_it_all
+
+added some new functionalities",pre,Alexander Kowarik <alex@kowarik.net>,1722404562
+statistikat/vim,"vimpute method robust
+",pre,alexkowa <alex@kowarik.net>,1722861323
+statistikat/vim,"Merge pull request #3 from statistikat/pmm_it_all
+
+Pmm it all",pre,BirgitKarlhuber <117508202+BirgitKarlhuber@users.noreply.github.com>,1722862627
+statistikat/vim,Update xgboostImpute.Rmd,pre,Alexander Kowarik <alex@kowarik.net>,1723027072
+statistikat/vim,"Deploying to gh-pages from @ statistikat/VIM@8ea37f292b7d077454a58444aab6b2c5470641f9 🚀
+",pre,alexkowa <alex@kowarik.net>,1723027367
+statistikat/vim,"change in sequential TRUE
+",pre,BirgitKarlhuber <birgit@karlhuber.net>,1723032441
+statistikat/vim,"helpers
+",post,Eileen Vattheuer <evatt@xlwp0139.statistik.local>,1744362470
+statistikat/vim,"vimpute
+",post,Eileen Vattheuer <evatt@xlwp0139.statistik.local>,1744365856
+statistikat/vim,"vimpute fin
+",post,Eileen Vattheuer <evatt@xlwp0139.statistik.local>,1744366227
+statistikat/vim,"vig
+",post,Eileen Vattheuer <evatt@xlwp0139.statistik.local>,1744368397
+statistikat/vim,"data.table
+",post,Eileen Vattheuer <evatt@xlwp0139.statistik.local>,1744612529
+statistikat/vim,"nthreads (xgboost)
+",post,eileenva <evatt@xlwp0139.statistik.local>,1744786707
+statistikat/vim,"small changes
+",post,eileenva <evatt@xlwp0139.statistik.local>,1745416534
+statistikat/vim,"com
+",post,eileenva <evatt@xlwp0139.statistik.local>,1745417875
+statistikat/vim,"VIM logo
+",post,alexkowa <alex@kowarik.net>,1746424300
+statistikat/vim,"Deploying to gh-pages from @ statistikat/VIM@f4333f87de803762440deac30f7653ff80272561 🚀
+",post,alexkowa <alex@kowarik.net>,1746424620
+tompollard/tableone,"wrap class with function
+",pre,Tom Pollard <tpollard@mit.edu>,1597871445
+tompollard/tableone,"bump version
+",pre,Tom Pollard <tpollard@mit.edu>,1597871492
+tompollard/tableone,"add type hints
+",pre,Tom Pollard <tpollard@mit.edu>,1597887187
+tompollard/tableone,"bump version
+",pre,Tom Pollard <tpollard@mit.edu>,1602795212
+tompollard/tableone,"make test for normality, multimodality, and outliers optional. ref #103
+",pre,Tom Pollard <tpollard@mit.edu>,1602799142
+tompollard/tableone,"remarks is deprecated
+",pre,Tom Pollard <tpollard@mit.edu>,1602799249
+tompollard/tableone,"Merge pull request #104 from tompollard/test_args
+
+Deprecate ""remarks"" arg. Add args for Tukey test, Hartigan's diptest, and normality test.",pre,Tom Pollard <tpollard@mit.edu>,1602801935
+tompollard/tableone,"note for older versions
+",pre,Tom Pollard <tpollard@mit.edu>,1602863534
+tompollard/tableone,"add option to calculate percentages over a row rather than column. ref #108
+",pre,Tom Pollard <tpollard@mit.edu>,1609729793
+tompollard/tableone,"bump version
+",pre,Tom Pollard <tpollard@mit.edu>,1609730232
+tompollard/tableone,"replace nose with pytest
+",post,Lucas Bulgarelli <lucas.bulgarelli@endpointhealth.com>,1660682008
+tompollard/tableone,"move test file
+",post,Lucas Bulgarelli <lucas.bulgarelli@endpointhealth.com>,1660682848
+tompollard/tableone,"add init files to test dirs
+",post,Lucas Bulgarelli <lucas.bulgarelli@endpointhealth.com>,1660685964
+tompollard/tableone,"update fixtures and test functions to use pytest
+",post,Lucas Bulgarelli <lucas.bulgarelli@endpointhealth.com>,1660685980
+tompollard/tableone,"replace travis with github workflow
+",post,Lucas Bulgarelli <lucas.bulgarelli@endpointhealth.com>,1660688106
+tompollard/tableone,"break lines over 79 chars
+",post,Lucas Bulgarelli <lucas.bulgarelli@endpointhealth.com>,1660689532
+tompollard/tableone,"updates to remove deprecation warnings
+",post,Lucas Bulgarelli <lucas.bulgarelli@endpointhealth.com>,1660692663
+tompollard/tableone,"Merge pull request #125 from tompollard/update-req
+
+Update requirements, workflow, and tests",post,Tom Pollard <tpollard@mit.edu>,1660743920
+tompollard/tableone,"Merge pull request #126 from tompollard/warnings
+
+Updates to remove deprecation warnings",post,Tom Pollard <tpollard@mit.edu>,1660744697
+tompollard/tableone,"add pbc dataset.
+",post,Tom Pollard <tpollard@mit.edu>,1660751878

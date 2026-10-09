@@ -1,0 +1,1543 @@
+project_wocid,commit_sha1,author,time,commit message,datetime,WoC,project,project_normalized,gap_position,LongestGapStart,LongestGapEnd
+arfc_pride,0290e6cb4665d1be4e656805422848312df0969e,robfairh <ref3@illinois.edu>,1616092963,"reviewing min/max capacity/activity constraints
+",2021-03-18 18:42:43+00:00,arfc_pride,https://github.com/arfc/pride,arfc/pride,before_gap_start,2021-09-02 15:13:00+00:00,2024-03-06 00:21:11+00:00
+arfc_pride,4afc8e29a977f01177d5a4124d71ada5112030f2,robfairh <ref3@illinois.edu>,1616093131,"Merge remote-tracking branch 'arfc/master' into assumptions
+",2021-03-18 18:45:31+00:00,arfc_pride,https://github.com/arfc/pride,arfc/pride,before_gap_start,2021-09-02 15:13:00+00:00,2024-03-06 00:21:11+00:00
+arfc_pride,024932493421eb05e0a29e1aa87c8c14848fd2c1,robfairh <ref3@illinois.edu>,1616093156,"cleaning assumptions
+",2021-03-18 18:45:56+00:00,arfc_pride,https://github.com/arfc/pride,arfc/pride,before_gap_start,2021-09-02 15:13:00+00:00,2024-03-06 00:21:11+00:00
+arfc_pride,f6704186b8f5a4cab7750c324a787ce3dbde8d70,robfairh <ref3@illinois.edu>,1616094970,"verified MaxCapacity
+",2021-03-18 19:16:10+00:00,arfc_pride,https://github.com/arfc/pride,arfc/pride,before_gap_start,2021-09-02 15:13:00+00:00,2024-03-06 00:21:11+00:00
+arfc_pride,2eab3dd10674ab23b3991f1d99ff11d9b5912ba4,robfairh <ref3@illinois.edu>,1616098591,"lifetimeprocess and loan
+",2021-03-18 20:16:31+00:00,arfc_pride,https://github.com/arfc/pride,arfc/pride,before_gap_start,2021-09-02 15:13:00+00:00,2024-03-06 00:21:11+00:00
+arfc_pride,083312417ebfa45acd0e2af281dcf3ec25958397,robfairh <ref3@illinois.edu>,1616099074,"working on lifetimetech
+",2021-03-18 20:24:34+00:00,arfc_pride,https://github.com/arfc/pride,arfc/pride,before_gap_start,2021-09-02 15:13:00+00:00,2024-03-06 00:21:11+00:00
+arfc_pride,3e031ca9ee007e67858d3fd251a658bcac2de887,samgdotson <sgd2@illinois.edu>,1616514747,"moves old files to different folder, adds mga config
+",2021-03-23 15:52:27+00:00,arfc_pride,https://github.com/arfc/pride,arfc/pride,before_gap_start,2021-09-02 15:13:00+00:00,2024-03-06 00:21:11+00:00
+arfc_pride,1202505ef5941ac214a68aeb5c55e9723bf03b79,Roberto Fairhurst <ref3@illinois.edu>,1616618694,"Merge 083312417ebfa45acd0e2af281dcf3ec25958397 into febc412722cc593d8c010358a1230ab38726e252
+",2021-03-24 20:44:54+00:00,arfc_pride,https://github.com/arfc/pride,arfc/pride,before_gap_start,2021-09-02 15:13:00+00:00,2024-03-06 00:21:11+00:00
+arfc_pride,c959509fc33e4a02962789b492312e4cac06732e,samgdotson <sgd2@illinois.edu>,1616699283,"adds exploration notebook for renewable energy correlations
+",2021-03-25 19:08:03+00:00,arfc_pride,https://github.com/arfc/pride,arfc/pride,before_gap_start,2021-09-02 15:13:00+00:00,2024-03-06 00:21:11+00:00
+arfc_pride,ea48ade8cf96f8c64a946454d4240850314ea0c9,Sam Dotson <44342873+samgdotson@users.noreply.github.com>,1625654223,"Merge a12679f62df5bfbe1c39221b9a7501ff63558673 into febc412722cc593d8c010358a1230ab38726e252
+",2021-07-07 10:37:03+00:00,arfc_pride,https://github.com/arfc/pride,arfc/pride,before_gap_start,2021-09-02 15:13:00+00:00,2024-03-06 00:21:11+00:00
+arfc_pride,ccfb60aa18205327485f652e539cfdd9335f4c49,samgdotson <sgd2@illinois.edu>,1630595580,"null updates
+",2021-09-02 15:13:00+00:00,arfc_pride,https://github.com/arfc/pride,arfc/pride,gap_start,2021-09-02 15:13:00+00:00,2024-03-06 00:21:11+00:00
+arfc_pride,f64710f2f845d5aefea0e082c92fb3db94298a83,Sam Dotson <44342873+samgdotson@users.noreply.github.com>,1709684471,Create .gitattributes,2024-03-06 00:21:11+00:00,arfc_pride,https://github.com/arfc/pride,arfc/pride,gap_end,2021-09-02 15:13:00+00:00,2024-03-06 00:21:11+00:00
+arfc_pride,fdd5e779f58c81632142c25273227755d3d3b784,Sam Dotson <44342873+samgdotson@users.noreply.github.com>,1709684529,"Merge pull request #172 from samgdotson/master
+
+gitattributes",2024-03-06 00:22:09+00:00,arfc_pride,https://github.com/arfc/pride,arfc/pride,after_gap_end,2021-09-02 15:13:00+00:00,2024-03-06 00:21:11+00:00
+arfc_pride,e786e0bdf9f6f1fee0d217206fd97b35c82d27eb,Sam Dotson <44342873+samgdotson@users.noreply.github.com>,1716385791,"Merge a12679f62df5bfbe1c39221b9a7501ff63558673 into fdd5e779f58c81632142c25273227755d3d3b784
+",2024-05-22 13:49:51+00:00,arfc_pride,https://github.com/arfc/pride,arfc/pride,after_gap_end,2021-09-02 15:13:00+00:00,2024-03-06 00:21:11+00:00
+arfc_pride,e6fa0bfd83c53436cbb1109f9b4046ae7ba688f2,Roberto Fairhurst <ref3@illinois.edu>,1718205589,"Merge 083312417ebfa45acd0e2af281dcf3ec25958397 into fdd5e779f58c81632142c25273227755d3d3b784
+",2024-06-12 15:19:49+00:00,arfc_pride,https://github.com/arfc/pride,arfc/pride,after_gap_end,2021-09-02 15:13:00+00:00,2024-03-06 00:21:11+00:00
+arfc_pride,cf1ec378d157db2484e3b7cd09448cc51710565b,Sam Dotson <44342873+samgdotson@users.noreply.github.com>,1739295133,Merge branch 'master' into paper-dev,2025-02-11 17:32:13+00:00,arfc_pride,https://github.com/arfc/pride,arfc/pride,after_gap_end,2021-09-02 15:13:00+00:00,2024-03-06 00:21:11+00:00
+arfc_pride,c0179b459746847279a50a27ecb48aa3378b93e2,Sam Dotson <44342873+samgdotson@users.noreply.github.com>,1739295166,"Merge pull request #90 from samgdotson/paper-dev
+
+Optimal Sizing: 50% draft",2025-02-11 17:32:46+00:00,arfc_pride,https://github.com/arfc/pride,arfc/pride,after_gap_end,2021-09-02 15:13:00+00:00,2024-03-06 00:21:11+00:00
+arfc_pride,bbb0c7860517f3a7bde25310ea7df8c013408353,Roberto Fairhurst <ref3@illinois.edu>,1740328556,"Merge 083312417ebfa45acd0e2af281dcf3ec25958397 into c0179b459746847279a50a27ecb48aa3378b93e2
+",2025-02-23 16:35:56+00:00,arfc_pride,https://github.com/arfc/pride,arfc/pride,after_gap_end,2021-09-02 15:13:00+00:00,2024-03-06 00:21:11+00:00
+fairrootgroup_fairroot,b003b7e78996982e062ba6100efc1a2dd06f912b,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1715592262,"fix(base): Do not copy FairModule::vList
+
+The copy ctor tried to copy vList.
+
+But this is a thread local variable.  So either it already
+exists, then nothing happens in the current code.
+Otherwise a new (empty) one is created and then copied into
+itself.
+
+Not to mention it copies an owning raw pointer into another
+owning raw pointer.
+",2024-05-13 09:24:22+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,before_gap_start,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,d1d5253599165ba3d1024f9618cac60162f64f30,Florian Uhlig <f.uhlig@gsi.de>,1715692561,"test(geobase): Don't stop test execution on failure
+",2024-05-14 13:16:01+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,before_gap_start,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,cef9ed77a90dde7e003d5310cb4ee058b66ced90,Florian Uhlig <f.uhlig@gsi.de>,1715692561,"test(geobase): Don't stop test execution on failure
+",2024-05-14 13:16:01+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,before_gap_start,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,404ee4b2d89326c269c20be3cb644d50c37a154b,Florian Uhlig <f.uhlig@gsi.de>,1715693154,"test(geobase): Add tests to for the shape classes
+
+In the current state only the constructor and the input from file and the
+output to file and screen are tested. The correctness of the output to
+screen isn't yet checked.
+
+Add helpers to generate and handle the needed input files on the fly.
+",2024-05-14 13:25:54+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,before_gap_start,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,59b847fcc496e999200bdaf17d50c80e82e69342,Florian Uhlig <f.uhlig@gsi.de>,1715693154,"test(geobase): Add tests to for the shape classes
+
+In the current state only the constructor and the input from file and the
+output to file and screen are tested. The correctness of the output to
+screen isn't yet checked.
+
+Add helpers to generate and handle the needed input files on the fly.
+",2024-05-14 13:25:54+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,before_gap_start,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,bf00b9d0cc05135d6d854057db5734499f9a50d1,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1715705180,"refactor(generators): FairShieldGenerator::RegisterIons
+
+- The fIonMap member variable is not needed as a member
+  variable. This is only needed in RegisterIons
+- Rewrite using a set.
+",2024-05-14 16:46:20+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,before_gap_start,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,d534a17db517dcf169d66888c095b34dace972ea,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1715705180,"refactor(generators): FairShieldGenerator::RegisterIons
+
+- The fIonMap member variable is not needed as a member
+  variable. This is only needed in RegisterIons
+- Rewrite using a set.
+",2024-05-14 16:46:20+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,before_gap_start,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,af2eecaabdf2c10862805deeb4ee2332db77c0e3,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1715844626,"refactor(generators): Some general cleanups in FairShieldGenerator
+
+- Turn ifstream into value member
+- use std::string to keep local copy of filename
+- Add override
+",2024-05-16 07:30:26+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,before_gap_start,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,b3df4035dfe98e43a9d4814853da39d7bc459511,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1715844626,"refactor(generators): Some general cleanups in FairShieldGenerator
+
+- Turn ifstream into value member
+- use std::string to keep local copy of filename
+- Add override
+",2024-05-16 07:30:26+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,before_gap_start,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,078d8f195764d1afe267fb81573c77a994cb5144,Radoslaw Karabowicz <r.karabowicz@gsi.de>,1715940480,"Bump v19.0.0
+",2024-05-17 10:08:00+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,before_gap_start,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,99be5f48d4bfed7ee7179524c07bc49a6b37a5c5,Radoslaw Karabowicz <r.karabowicz@gsi.de>,1716470849,"Merge v19.0.0
+",2024-05-23 13:27:29+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,gap_start,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,cabbbe8203235b809d25aa2c49aa25f16380c88d,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1716541068,"docs: Start on the Release Process
+
+Be more transparent about our release process.
+
+Co-Authored: @karabowi
+Co-Authored: @dennisklein
+",2024-05-24 08:57:48+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,809744f4074c5410e20bf8b9714a462842b40d5d,Radoslaw Karabowicz <r.karabowicz@gsi.de>,1716543436,"docs(CONTRIBUTING): Add section to release process
+
+Added section about complicated patch branch merging process.
+Added section about major version.
+",2024-05-24 09:37:16+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,98aa8ba841264bc1ac23e78a1bc791ead834233e,Dennis Klein <d.klein@gsi.de>,1716735414,"refactor(Base): Rewrite loop with `TRangeDynCast` for readability
+
+* Rename `aList` to `nodes`, see [S.2](https://github.com/FairRootGroup/FairRoot/blob/master/CONTRIBUTING.md#s2-prefer-variable-names-describing-what-they-contain)
+* Apply [CPPCG::ES.6](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#es6-declare-names-in-for-statement-initializers-and-conditions-to-limit-scope)
+",2024-05-26 14:56:54+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,fbc4fe6155ae19cfdfa38ed35521dbcf17d59cf1,Dennis Klein <d.klein@gsi.de>,1716737162,"refactor(Base): `FairModule::ProcessNodes` further
+
+* [CPPCG::ES.5 Keep scopes small](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#es5-keep-scopes-small)
+* [CPPCG::ES.11 Use `auto` to avoid redundant repetition of type
+  names](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#Res-auto)
+* Rename `fNodes` to `parNodes` - the `f`-prefix is reserved for member
+  variables
+* Default to prefix increment operator for readibility, especially if
+  return value is ignored
+* `FairGeoNode` is a `FairGeoVolume` - no `dynamic_cast` needed
+* Explicitely `std::ignore` return values
+",2024-05-26 15:26:02+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,e72aa4f7e6d11c8e506cc3bc6fa35e64da4d324e,Dennis Klein <d.klein@gsi.de>,1716739077,"refactor(Base): Deduplicate code into `FairModule::RegisterSensitiveVolume()`
+
+* Improve maintainability
+",2024-05-26 15:57:57+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,135bd40d80a26b6c9afbb87ab1d963bc740f1140,Dennis Klein <d.klein@gsi.de>,1716739207,"fix(Base): Only increment volume counter if volume is actually added
+",2024-05-26 16:00:07+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,3c3f455db67298d720cb19a8c3d8cd4b29b204ac,Dennis Klein <d.klein@gsi.de>,1716760634,"fix(templates): Use naming logic from base class
+
+introduced in 0fb8a6f42be762ee1ea6f0aa9cdfe3e62f8be100
+",2024-05-26 21:57:14+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,e301bcb31ff8c53bc96bec68d9d0e05feb4a84b9,Dennis Klein <d.klein@gsi.de>,1716760634,"fix(templates): Use naming logic from base class
+
+introduced in 0fb8a6f42be762ee1ea6f0aa9cdfe3e62f8be100
+",2024-05-26 21:57:14+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,6474a4f2199c72bbb03d4eb0c203ef0d65dd38d3,Dennis Klein <d.klein@gsi.de>,1716761803,"refactor: Remove last references to deprecated `sprintf`
+",2024-05-26 22:16:43+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,bd048ec6305a4847d54cfefb7e869f906c1a569f,Dennis Klein <d.klein@gsi.de>,1716761803,"refactor: Remove last references to deprecated `sprintf`
+",2024-05-26 22:16:43+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,21930e161dc7021ec0c6b323224cb0dc20ebe578,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1716840341,"fix: Handle Sink/Source ownership more properly
+
+FairRootManager and FairRun both used to `delete` fSink and
+fSource. In specific situations (FairRootManager getting
+destructed before FairRun) this leads to a double delete!
+
+Deprecate the old FairRootManager::Set{Source,Sink} APIs
+that take something like an owning pointer.
+
+FairRootManager should only have a non-owning reference to
+sink and source.  To allow FairRun to set it, `friend` it
+from FairRootManager.
+
+See: https://github.com/FairRootGroup/FairRoot/issues/1418
+     (see ""Double deleting of file source in
+     FairRootManager and FairRun"")
+",2024-05-27 20:05:41+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,03087ebcdb949b5f5feb9f932a1314dad107fbd2,Dennis Klein <d.klein@gsi.de>,1716910303,"fix(tests): Pass down `$LD_LIBRARY_PATH`
+
+fix #1542
+
+Co-authored-by: @YanzhaoW
+",2024-05-28 15:31:43+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,31b4b7d905dfafc9cada1e94fb8c2256bed7cdb7,Dennis Klein <d.klein@gsi.de>,1716910303,"fix(tests): Pass down `$LD_LIBRARY_PATH`
+
+fix #1542
+
+Co-authored-by: @YanzhaoW
+",2024-05-28 15:31:43+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,87a29463bf9958b16ed4193746b1d3ab9a91b90c,Dennis Klein <d.klein@gsi.de>,1716910303,"fix(tests): Pass down `$LD_LIBRARY_PATH`
+
+fix #1542
+
+Co-authored-by: @YanzhaoW
+(cherry picked from commit 31b4b7d905dfafc9cada1e94fb8c2256bed7cdb7)
+",2024-05-28 15:31:43+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,6f693eae1d6b68b2eef086bb03d99c1022b17256,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1717450196,"refactor: Use some more TRangeDynCast
+",2024-06-03 21:29:56+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,c974e1dd0f5413fc2f64baebf503e6210df4ceb6,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1717450196,"refactor: Use some more TRangeDynCast
+",2024-06-03 21:29:56+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,3f3cd4bf239fececf48ebf0d394a5970871740fe,Radoslaw Karabowicz <r.karabowicz@gsi.de>,1717580006,"feat(parbase): Add `setCreationMode` to `FairParSet`
+
+In rare cases, when parameteres deriving from `FairParSet`
+are not present in the input parameter file and are meant
+to be created during the run, `FairParSet::init()` throws
+an error message.
+
+By using the newly introduced setter `setCreationMode`
+this message is suppressed.
+
+This allows solution to issue #1541.
+",2024-06-05 09:33:26+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,7f0aeb7de89ed2e5cfab8addd5205e9322b2adf2,Radoslaw Karabowicz <r.karabowicz@gsi.de>,1717581021,"chore(parbase): Some cleanup of `FairParSet`
+",2024-06-05 09:50:21+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,1756504ec6b85c3b27a97952c8518e7bd8526bc7,Radoslaw Karabowicz <r.karabowicz@gsi.de>,1717581021,"chore(parbase): Some cleanup of `FairParSet`
+",2024-06-05 09:50:21+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,720fe9ba5b683624134eb49766aaf7e35d4d5abe,Radoslaw Karabowicz <r.karabowicz@gsi.de>,1717581021,"chore(parbase): Some cleanup of `FairParSet`
+",2024-06-05 09:50:21+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,51c73a4116a62f04bade26267cb3fb22d624e585,Radoslaw Karabowicz <r.karabowicz@gsi.de>,1717581817,"deprecate(parbase): Deprecate `fill` and `store` methodes in `FairParSet`
+
+These functions seem not be used in `FairRoot`.
+Deprecated them.
+",2024-06-05 10:03:37+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,9b4e61246664a9146e9a949f24bbfdf7a436635d,Dr. Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1717643301,"Merge ac95a3177da18d32de9ba8cc6e8ee31ecb95cad9 into 6f693eae1d6b68b2eef086bb03d99c1022b17256
+",2024-06-06 03:08:21+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,32bb52f41d5945acf128dcb3c712fa91fe2b5103,Alexey Rybalchenko <alexryba@gmail.com>,1717746183,docs: Update MacOS build definitions in the Jenkinsfile,2024-06-07 07:43:03+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,78387145a132ae826a91f2c7a43ca0289f97dcde,Florian Uhlig <f.uhlig@gsi.de>,1718022912,"fix(examples): Make Geant3 tests optional
+
+Running Geant3 tests currently fails with newer Apple clang versions. Make the
+execution of Geant3 simulations optional to work around the problem.
+",2024-06-10 12:35:12+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,f2b3fb128ed2151be1431322426bd19945dfd3d3,Florian Uhlig <f.uhlig@gsi.de>,1718022912,"fix(examples): Make Geant3 tests optional
+
+Running Geant3 tests currently fails with newer Apple clang versions. Make the
+execution of Geant3 simulations optional to work around the problem.
+",2024-06-10 12:35:12+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,c67333c48658bae4b8e22d68a918743322ba6a88,Dennis Klein <d.klein@gsi.de>,1718034978,"ci: Update
+",2024-06-10 15:56:18+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,cedf9a5ac774d5bb3cd84c3f2fc3390ff27185f2,Dennis Klein <d.klein@gsi.de>,1718034978,"ci: Update
+",2024-06-10 15:56:18+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,33a1cd77d3e95187a8014aaddb1b7a2874fc2fdf,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1718042622,"ci: Run doxygen as a CI job
+
+(cherry-picked from commit 3e2c3cf1cbe43050c11f78e2ed9a0b3e5672ec08)
+",2024-06-10 18:03:42+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,59e14bf579133e2d667aa422027497abd2f68f06,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1718042622,"ci: Run doxygen as a CI job
+
+(cherry-picked from commit 3e2c3cf1cbe43050c11f78e2ed9a0b3e5672ec08)
+",2024-06-10 18:03:42+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,96fec1eab3a2f7a9ca2698b5d1cab94788486eb7,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1718222599,"docs: breaking change of FairModule::svList
+
+The FairModule::svList API was dropped in 19.0.
+It was thought of as an internal API anyway. But let's
+at least document
+- that it's gone
+- that the new fAllSensitiveVolumes IS an internal API
+
+See: 54ad232ffe416e9c650b3d0d4aadce7b48e48746
+",2024-06-12 20:03:19+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,a4e77a17f1896052df66545f934316d39e84659c,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1718222599,"docs: breaking change of FairModule::svList
+
+The FairModule::svList API was dropped in 19.0.
+It was thought of as an internal API anyway. But let's
+at least document
+- that it's gone
+- that the new fAllSensitiveVolumes IS an internal API
+
+See: 54ad232ffe416e9c650b3d0d4aadce7b48e48746
+
+(cherry picked from commit 538e3f5f2f825ec9e1e38eb8da835e9a4131c92e)
+",2024-06-12 20:03:19+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,538e3f5f2f825ec9e1e38eb8da835e9a4131c92e,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1718222599,"docs: breaking change of FairModule::svList
+
+The FairModule::svList API was dropped in 19.0.
+It was thought of as an internal API anyway. But let's
+at least document
+- that it's gone
+- that the new fAllSensitiveVolumes IS an internal API
+
+See: 54ad232ffe416e9c650b3d0d4aadce7b48e48746
+",2024-06-12 20:03:19+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,3f1b6ab8523edd557719d40f923fd5f0a9cf0c2a,YanzhaoW <yannzhaow@gmail.com>,1718297077,"Fix seg fault from FairRootManager::GetObject
+",2024-06-13 16:44:37+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,ad6b17390cb85bcdf95e44618e911f81c01f11d1,YanzhaoW <yannzhaow@gmail.com>,1718297077,"Fix seg fault from FairRootManager::GetObject
+
+(cherry picked from commit ef24b649ec6654681ba26d06698830796fb7186f)
+",2024-06-13 16:44:37+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,ef24b649ec6654681ba26d06698830796fb7186f,YanzhaoW <yannzhaow@gmail.com>,1718297077,"Fix seg fault from FairRootManager::GetObject
+",2024-06-13 16:44:37+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,db84de2e1f9d8bdd8504e5853ac053b42fb4ce10,Dennis Klein <d.klein@gsi.de>,1718352763,"build: Update `find_package2`
+",2024-06-14 08:12:43+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,f768dbc492e090123d3619235b1cdf1124a52e07,Dennis Klein <d.klein@gsi.de>,1718352763,"build: Update `find_package2`
+",2024-06-14 08:12:43+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,ace053b0a15290f07f52b9230e1d8e0062815bde,Dennis Klein <d.klein@gsi.de>,1718353075,"build: Use `find_package2_implicit_dependencies()`
+",2024-06-14 08:17:55+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,c7c55415e2526eb7606d5dd9cde30c2a12db5e49,Dennis Klein <d.klein@gsi.de>,1718353075,"build: Use `find_package2_implicit_dependencies()`
+",2024-06-14 08:17:55+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,5a6df07281a65e84feee22bcc800a58bbe8909f8,Dennis Klein <d.klein@gsi.de>,1718355880,"docs: Add G.4 Conventional Commits
+",2024-06-14 09:04:40+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,fc29116e66cd6584f7f58bc9fb6a0827caecbc90,Dennis Klein <d.klein@gsi.de>,1718355880,"docs: Add G.4 Conventional Commits
+",2024-06-14 09:04:40+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,0b2dc69ff52c1216f9314298eb70da23196aa78c,Dennis Klein <d.klein@gsi.de>,1718356424,"docs: Add G.5 Signed Commits and Tags
+",2024-06-14 09:13:44+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,082a6b47d61d54e31743ed1dd6bd8cf9fc7a7a07,Dennis Klein <d.klein@gsi.de>,1718356424,"docs: Add G.5 Signed Commits and Tags
+",2024-06-14 09:13:44+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,b892c2eb0304ba468282c64f2f47d0c95c74d0df,Dennis Klein <d.klein@gsi.de>,1718358184,"build: Export `FairRoot_CMAKE_MODULES_DIR`
+
+Co-authored-by: @ChristianTackeGSI
+(cherry picked from commit 60baa2dec401c5b2c66f4b585c3d3b60c474bce2)
+",2024-06-14 09:43:04+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,85823620ae1d5ce1a5e6a928425ca39ee2521154,Dennis Klein <d.klein@gsi.de>,1718358184,"build: Export `FairRoot_CMAKE_MODULES_DIR`
+
+Co-authored-by: @ChristianTackeGSI
+(cherry picked from commit 60baa2dec401c5b2c66f4b585c3d3b60c474bce2)
+",2024-06-14 09:43:04+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,60baa2dec401c5b2c66f4b585c3d3b60c474bce2,Dennis Klein <d.klein@gsi.de>,1718358184,"build: Export `FairRoot_CMAKE_MODULES_DIR`
+
+Co-authored-by: @ChristianTackeGSI
+",2024-06-14 09:43:04+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,aa7b3ca31ff9925d67d56e7dfbb35b646c91ecdd,Dennis Klein <d.klein@gsi.de>,1718358762,"docs: Fix markdown
+",2024-06-14 09:52:42+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,f7ad34467285a76636a176fc3ee321499af6ab02,Dennis Klein <d.klein@gsi.de>,1718358762,"docs: Fix markdown
+",2024-06-14 09:52:42+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,35dfce0cc03c450a6936cb53e43d81834aeacac1,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1718708433,"refactor: Avoid FairGeoLoader::Instance()
+
+Instead add a few GetGeometryLoader() getters and use them.
+Also let FairModule know to which FairRunSim it belongs.
+",2024-06-18 11:00:33+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,4af925e97434586495ad41dd5f4792ff87a830a4,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1718708433,"refactor: Avoid FairGeoLoader::Instance()
+
+Instead add a few GetGeometryLoader() getters and use them.
+Also let FairModule know to which FairRunSim it belongs.
+",2024-06-18 11:00:33+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,9370a19c0facc5df20c5f2728bf099855075179f,Dennis Klein <d.klein@gsi.de>,1718791359,"docs(changelog): Add v19 CMake pkg backports
+",2024-06-19 10:02:39+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,a991ee2213561f5fb08cd21bf85b71d83abe8d8f,Dennis Klein <d.klein@gsi.de>,1718791359,"docs(changelog): Add v19 CMake pkg backports
+",2024-06-19 10:02:39+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,0a4e061cb61db90f5aa9007e5263a225b7abb806,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1718901646,"refactor(Base): Introduce FairGeoLoader::LoadAndCreate
+
+... and use it around
+",2024-06-20 16:40:46+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,d90d2565b47b959612672dcc2edb0b5f99923b48,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1718901646,"refactor(Base): Introduce FairGeoLoader::LoadAndCreate
+
+... and use it around
+",2024-06-20 16:40:46+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,07e5054a3972ea8f61d85fbb422f28cfa4a18ceb,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1718902307,"fix(examples): More unique output filenames
+
+As our tests run in parallel, the output filenames must be
+unique across different run types. So add more properties
+to the filename (MT, postinit).
+",2024-06-20 16:51:47+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,df6dce590b4ee951d77947b1f2cacfe4894938dd,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1718902307,"fix(examples): More unique output filenames
+
+As our tests run in parallel, the output filenames must be
+unique across different run types. So add more properties
+to the filename (MT, postinit).
+",2024-06-20 16:51:47+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,ba0f92d755e1ceacebcf3ac7471f2201897814e8,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1718975606,"feat(parbase): Improve logging around FairParSet::init
+
+And re-arrange some if statements
+",2024-06-21 13:13:26+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,1750b2751365773aef3b3c0aef1060d4d399837b,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1718975606,"feat(parbase): Improve logging around FairParSet::init
+
+And re-arrange some if statements
+",2024-06-21 13:13:26+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,c4476ddf84e6d326668de79491b233096885f7e4,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1719350898,"feat(base): Introduce FairDetector::GetRootManager
+
+Especially classes deriving from FairDetector and
+implementing the Register member function need access to
+FairrootManager. Give them a proper getter.
+",2024-06-25 21:28:18+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,ec56c6fb46818cb75b8d9b213b008199c24aeb8e,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1719350898,"feat(base): Introduce FairDetector::GetRootManager
+
+Especially classes deriving from FairDetector and
+implementing the Register member function need access to
+FairrootManager. Give them a proper getter.
+",2024-06-25 21:28:18+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,42cc628bd861f019b739513a8dbdcbe1156fac3b,Dennis Klein <d.klein@gsi.de>,1719398424,"feat(base)!: Disable streamer for `FairRootManager`
+
+Almost all member variables have been excluded already which suggests
+`FairRootManager` objects were not intended for serialization.
+",2024-06-26 10:40:24+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,d86cf21cf53370883f2fa15f2487a9d7a4d3fce7,Dennis Klein <d.klein@gsi.de>,1719398424,"feat(base)!: Disable streamer for `FairRootManager`
+
+Almost all member variables have been excluded already which suggests
+`FairRootManager` objects were not intended for serialization.
+",2024-06-26 10:40:24+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,39b93f7f8c73a2836afdf3911f425e1067da14b0,Dennis Klein <d.klein@gsi.de>,1719407040,"fix(base): Handle `nullptr` args in `FairRun::SetSink()`
+",2024-06-26 13:04:00+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,9a74545aaddae3e1a66c9ed2ab26a78edb5b5c28,Dennis Klein <d.klein@gsi.de>,1719407040,"fix(base): Handle `nullptr` args in `FairRun::SetSink()`
+",2024-06-26 13:04:00+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,518641dbb305942ef8d5ff6c90185fd583ac5a5b,Radoslaw Karabowicz <r.karabowicz@gsi.de>,1719839394,"feat(sim): Allow branch registration in `FairGenerator`
+
+Introduced new function `FairMCApplication::InitFinalizer()`
+which initializes event generator, tasks, and triggers
+`FairRootManager::WriteFolder()` function.
+This new function is called from `InitMC()`
+and from `InitOnWorker()` for TGeant4 MT mode.
+
+Previously the funcionality of `InitFinalizer` was
+split between `InitGeometry()` and `AddIons()`, which caused
+problems because
+TGeant3 calls `AddIons()` first, `InitGeometry()` second,
+TGeant4 calls `InitGeometry()` first, `AddIons()` second.
+
+Current implementation assures that initialization of
+event generators and tasks come before `WriteFolder`.
+
+Fixes issues #1183 and #1567.
+",2024-07-01 13:09:54+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,ad44d73bc5cd4622132e8d4d793f7c5e7960cd98,Radoslaw Karabowicz <r.karabowicz@gsi.de>,1719839394,"feat(sim): Allow branch registration in `FairGenerator`
+
+Introduced new function `FairMCApplication::InitFinalizer()`
+which initializes event generator, tasks, and triggers
+`FairRootManager::WriteFolder()` function.
+This new function is called from `InitMC()`
+and from `InitOnWorker()` for TGeant4 MT mode.
+
+Previously the funcionality of `InitFinalizer` was
+split between `InitGeometry()` and `AddIons()`, which caused
+problems because
+TGeant3 calls `AddIons()` first, `InitGeometry()` second,
+TGeant4 calls `InitGeometry()` first, `AddIons()` second.
+
+Current implementation assures that initialization of
+event generators and tasks come before `WriteFolder`.
+
+Fixes issues #1183 and #1567.
+",2024-07-01 13:09:54+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,83596f8893c3702106496e15ccd7dcb03264e74a,Dennis Klein <d.klein@gsi.de>,1719940071,"ci: Enable writable tmpfs after Apptainer update
+
+(cherry picked from commit 14eb6f9709ef19b18bb998c2c8d706fbca18f150)
+",2024-07-02 17:07:51+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,079112186c5eaeffad38c6787d973278224d7c7d,Dennis Klein <d.klein@gsi.de>,1719940071,"ci: Enable writable tmpfs after Apptainer update
+",2024-07-02 17:07:51+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,14eb6f9709ef19b18bb998c2c8d706fbca18f150,Dennis Klein <d.klein@gsi.de>,1719940071,"ci: Enable writable tmpfs after Apptainer update
+",2024-07-02 17:07:51+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,73bc94f2a208dd1c8ccd43a51ebcaccfdc1f8eac,Dennis Klein <d.klein@gsi.de>,1719940071,"ci: Enable writable tmpfs after Apptainer update
+
+(cherry picked from commit 14eb6f9709ef19b18bb998c2c8d706fbca18f150)
+",2024-07-02 17:07:51+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,d86dbede6c12ba803b57bb819791ef6b7dc4c764,Dennis Klein <d.klein@gsi.de>,1719940071,"ci: Enable writable tmpfs after Apptainer update
+
+(cherry picked from commit 14eb6f9709ef19b18bb998c2c8d706fbca18f150)
+",2024-07-02 17:07:51+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,e3faf16d4c50c62478464b8add84f91844eff200,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1720192396,"chore: Use override in FairMQ device derived classes
+",2024-07-05 15:13:16+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,fb8e5e5fdd451326e83460f790cc534224493625,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1720192396,"chore: Use override in FairMQ device derived classes
+",2024-07-05 15:13:16+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,eb4ccd41eeb5c4639fb859dd8fdbaf998d57c893,Dennis Klein <d.klein@gsi.de>,1720204576,"build: Error if Proof support is requested with ROOT 6.32+
+
+(cherry picked from commit 4c1531ad6503e32bf8bdb5911d108e042ccb79b6)
+",2024-07-05 18:36:16+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,4c1531ad6503e32bf8bdb5911d108e042ccb79b6,Dennis Klein <d.klein@gsi.de>,1720204576,"build: Error if Proof support is requested with ROOT 6.32+
+",2024-07-05 18:36:16+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,7aa170e627dccec2765d4fd234136baaaca98803,Dennis Klein <d.klein@gsi.de>,1720207226,"build: Disable ROOT::Proof support by default with ROOT 6.32+
+",2024-07-05 19:20:26+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,196004e4a78bce8472e6e1e7fd9f264e030e1107,Dennis Klein <d.klein@gsi.de>,1720207226,"build: Disable ROOT::Proof support by default with ROOT 6.32+
+",2024-07-05 19:20:26+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,53cbf433992e29b9fc83747e67f914cf54692b5d,Radoslaw Karabowicz <r.karabowicz@gsi.de>,1720235299,"Merge 51c73a4116a62f04bade26267cb3fb22d624e585 into 4c1531ad6503e32bf8bdb5911d108e042ccb79b6
+",2024-07-06 03:08:19+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,5268bc9f1c4661d749c95edcf7f8a8c2110f6812,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1720276237,"refactor(Base): Move GetRootManager to FairModule
+
+... and simplify by using the already existing `fRunSim`.
+",2024-07-06 14:30:37+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,aafa926ceef2dbba0c5b91fd28a03fd9f6ef0400,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1720276237,"refactor(Base): Move GetRootManager to FairModule
+
+... and simplify by using the already existing `fRunSim`.
+",2024-07-06 14:30:37+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,c920cca3d298298204c3091c32e7762f8b66b28f,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1720277247,"refactor(Base): Move FairModule::fAllSensitiveVolumes to FairRunSim
+
+Instead of using a thread local, let's use something that
+is tied to the ""simulaion session"" (as noted in some places).
+
+FairRunSim has all the Modules anyway, so let it also have
+the list of sensitive Volumes.
+",2024-07-06 14:47:27+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,4ab59c2b46e0227acf0c1be0eb1cb342f59f2e50,Radoslaw Karabowicz <r.karabowicz@gsi.de>,1720534514,"chore(examples/rutherford): Switch MT mode off in the test
+
+Rutherford example does not need to run in MT mode,
+since we have dedicated MT test anyways.
+Changed the test not to run in MT mode.
+",2024-07-09 14:15:14+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,ae042bc73fadac4c07fa29af446d5374460a21d2,Radoslaw Karabowicz <r.karabowicz@gsi.de>,1720534514,"chore(examples/rutherford): Switch MT mode off in the test
+
+Rutherford example does not need to run in MT mode,
+since we have dedicated MT test anyways.
+Changed the test not to run in MT mode.
+",2024-07-09 14:15:14+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,4e8b407a5e4ae5a1ab935211e365fe44b7f8224e,Radoslaw Karabowicz <r.karabowicz@gsi.de>,1720606985,"docs(sim): Add comment to `FairRunSim::SetMCConfig()`
+
+Comments explain `SetMCConfig()` functionality.
+",2024-07-10 10:23:05+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,9235df8e9e68994ab8cb1c3ea8eebbb66eebcf07,Radoslaw Karabowicz <r.karabowicz@gsi.de>,1720606985,"docs(sim): Add comment to `FairRunSim::SetMCConfig()`
+
+Comments explain `SetMCConfig()` functionality.
+",2024-07-10 10:23:05+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,649bf21e861c59695277a744ec7b9f5dd94d7842,cvilelahep <c.vilela@cern.ch>,1720616726,"feat(generators): Implement 3D box in FairBoxGenerator
+
+With this commit, it is now possible to generate particles randomly within a 3D box.
+Previously, the depth of the box was hard-coded to zero and therefore it was only possible to generate particles within a rectangle in a plane.
+",2024-07-10 13:05:26+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,81b409dfab6b37e128706f471e41e4049e673d7b,cvilelahep <c.vilela@cern.ch>,1720616726,"feat(generators): Implement 3D box in FairBoxGenerator
+
+With this commit, it is now possible to generate particles randomly within a 3D box.
+Previously, the depth of the box was hard-coded to zero and therefore it was only possible to generate particles within a rectangle in a plane.
+",2024-07-10 13:05:26+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,3bde303291dec47787033f564dcffd03257488ab,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1720901039,"refactor(examples): Drop empty Reset methods
+",2024-07-13 20:03:59+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,d7049e1646399ddd9215af547259d9b05ddc47f3,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1720901039,"refactor(examples): Drop empty Reset methods
+",2024-07-13 20:03:59+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,761b32fdbbad9097b18b1133a7b2cb9c13ea8956,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1720901058,"refactor: Remove unneeded FairRootManager references
+",2024-07-13 20:04:18+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,52836e5878a1c9e5e0ba9aec37111bfcba7379be,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1720901058,"refactor: Remove unneeded FairRootManager references
+",2024-07-13 20:04:18+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,7dfdc9d94c362f3f6bccca7533360f68b612f42f,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1720903827,"fix(Base): warnings in FairMCApplication
+
+- variable 'Counter' set but not used
+- C Style Cast
+
+Also use auto and move variables into inner scope.
+",2024-07-13 20:50:27+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,fccf342ccc1fb80ff7348167511d07b517455f45,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1720903827,"fix(Base): warnings in FairMCApplication
+
+- variable 'Counter' set but not used
+- C Style Cast
+
+Also use auto and move variables into inner scope.
+",2024-07-13 20:50:27+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,986a8e406d439f49bbb75cf30c0ef25a1764de3a,Daniel Wielanek <daniel.wielanek@gmail.com>,1721543212,"New way to color tracks.
+",2024-07-21 06:26:52+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,064b18ec24203445c5cbecd6f285ff4b43a55b70,Daniel Wielanek <daniel.wielanek@gmail.com>,1721549848,"Refactoring method. Emtpy atrributes are allowed now.
+",2024-07-21 08:17:28+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,61acf826f69b6c823c7a4de54fb0388c1ee59ecc,Daniel Wielanek <daniel.wielanek@gmail.com>,1721585437,"Merge 064b18ec24203445c5cbecd6f285ff4b43a55b70 into 9a74545aaddae3e1a66c9ed2ab26a78edb5b5c28
+",2024-07-21 18:10:37+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,8a1980e90bac4183b88d92509978b5e7c8c2d8da,Daniel Wielanek <daniel.wielanek@gmail.com>,1721624828,"Some fixes according to   Christian suggestions.
+",2024-07-22 05:07:08+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,65ae2457a86adcf2afa756c8254465d0d27d2de2,Daniel Wielanek <daniel.wielanek@gmail.com>,1721628574,"Some additional corrections sugested by coderabit
+",2024-07-22 06:09:34+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,0f8dfe02ab2976796a4e7e2979af6ea54d54c5e7,Radoslaw Karabowicz <r.karabowicz@gsi.de>,1721730333,"feat(sim): Update FairMCApplication states
+
+Added few states as well as few checks.
+Previous state order: `kUnknownState` -> `kConstructGeometry` -> `kUnknownState` -> `kInitGeometry` -> `kUnknownState`
+Currently: `kPreInit` -> `kConstructGeometry` -> `kInit` -> `kInitGeometry` -> `kInit` -> `kPostInit` -> `kRun`.
+",2024-07-23 10:25:33+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,4d516319950450929b2dd1fcf59feec7b6dab2be,Radoslaw Karabowicz <r.karabowicz@gsi.de>,1721730333,"feat(sim): Update FairMCApplication states
+
+Added few states as well as few checks.
+Previous state order: `kUnknownState` -> `kConstructGeometry` -> `kUnknownState` -> `kInitGeometry` -> `kUnknownState`
+Currently: `kPreInit` -> `kConstructGeometry` -> `kInit` -> `kInitGeometry` -> `kInit` -> `kPostInit` -> `kRun`.
+",2024-07-23 10:25:33+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,08726b4b590d876382d013e2e10c7cee62f2c674,Cristovao Vilela <c.vilela@cern.ch>,1722004053,"Update CONTRIBUTORS
+",2024-07-26 14:27:33+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,84175d0291bbcd09b70e1626f7957d7bcacc6ce4,Cristovao Vilela <c.vilela@cern.ch>,1722004053,"Update CONTRIBUTORS
+",2024-07-26 14:27:33+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,8aa7af85fb7bfaae6f88c754c9c8f7f49d0f09ea,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1722113968,"refactor(tests/geobase): Use valued variables
+
+And simplify string initialization
+",2024-07-27 20:59:28+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,1b5ae3e55bdbe71080c429bec96a53ef3f82a2c6,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1722113968,"refactor(tests/geobase): Use valued variables
+
+And simplify string initialization
+",2024-07-27 20:59:28+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,d1dc4d709a2b7919f33f105853995b9efd89091a,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1722334506,"feat(eventdisplay): Add FairXMLPdgColor::SetColorsFromXML
+
+Currently only used in the ctor.
+Exposed for possible other users.
+
+Also added a bit of const.
+",2024-07-30 10:15:06+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,7d93ba478abaa54e58c403561b44c41c68da46d5,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1722334506,"feat(eventdisplay): Add FairXMLPdgColor::SetColorsFromXML
+
+Currently only used in the ctor.
+Exposed for possible other users.
+
+Also added a bit of const.
+",2024-07-30 10:15:06+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,4db6e654d297177a8ffd4dd3c1a471b6327ead8f,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1723413947,"deprecate(Base): FairRootFileSink::OpenRootFile
+
+This is just a thin wrapper that calls TFile::Open.
+
+It's not used in FairRoot.
+And everybody else should use TFile::Open.
+",2024-08-11 22:05:47+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,0a9707aec333e07315a1c1ef874df4f25f5f3133,Dennis Klein <d.klein@gsi.de>,1724073030,"build: Adopt all CMake policies up to 3.30
+
+Modernizing to the policy range syntax supported by
+[`cmake_minimum_required`](https://cmake.org/cmake/help/latest/command/cmake_minimum_required.html)
+since CMake 3.12.
+
+(cherry picked from commit b732912c287521a5ee24c62a3ffe7b0fad28e3e3)
+",2024-08-19 13:10:30+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,6f7b4ef66768a3f34e182b475e0efc3e440ff9ad,Dennis Klein <d.klein@gsi.de>,1724073030,"build: Adopt all CMake policies up to 3.30
+
+Modernizing to the policy range syntax supported by
+[`cmake_minimum_required`](https://cmake.org/cmake/help/latest/command/cmake_minimum_required.html)
+since CMake 3.12.
+
+(cherry picked from commit b732912c287521a5ee24c62a3ffe7b0fad28e3e3)
+",2024-08-19 13:10:30+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,9f31f5746ffd3187a7d3fec1a57950d6dfd377bb,Dennis Klein <d.klein@gsi.de>,1724073030,"build: Adopt all CMake policies up to 3.30
+
+Modernizing to the policy range syntax supported by
+[`cmake_minimum_required`](https://cmake.org/cmake/help/latest/command/cmake_minimum_required.html)
+since CMake 3.12.
+",2024-08-19 13:10:30+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,b732912c287521a5ee24c62a3ffe7b0fad28e3e3,Dennis Klein <d.klein@gsi.de>,1724073030,"build: Adopt all CMake policies up to 3.30
+
+Modernizing to the policy range syntax supported by
+[`cmake_minimum_required`](https://cmake.org/cmake/help/latest/command/cmake_minimum_required.html)
+since CMake 3.12.
+",2024-08-19 13:10:30+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,d3f67d1c451bacb19dbfdee5b6b7937d1f089ddd,Dennis Klein <d.klein@gsi.de>,1724073030,"build: Adopt all CMake policies up to 3.30
+
+Modernizing to the policy range syntax supported by
+[`cmake_minimum_required`](https://cmake.org/cmake/help/latest/command/cmake_minimum_required.html)
+since CMake 3.12.
+
+(cherry picked from commit b732912c287521a5ee24c62a3ffe7b0fad28e3e3)
+",2024-08-19 13:10:30+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,f087647e7d65f1c181175d67005697348c1e372e,Dennis Klein <d.klein@gsi.de>,1724073030,"build: Adopt all CMake policies up to 3.30
+
+(cherry picked from commit b732912c287521a5ee24c62a3ffe7b0fad28e3e3)
+",2024-08-19 13:10:30+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,1860b3fb4f34b185600ed07fa9c8a41fb9254d5f,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1724082819,"clang-format: Put braces on own line in special cases
+
+Multi-line control statements with the opening brace on the
+last line can be a little confusing to read:
+
+```cpp
+if (auto foo = something;
+    foo.extra_data.check_for(17)) {
+    foo.extra_data.check_and_act(19);
+}
+```
+
+It is not easy to see the end of the condition and the
+start of the ""then"" block.
+
+This gets much easier when putting the opening brace on its
+own line:
+
+```cpp
+if (auto foo = something;
+    foo.extra_data.check_for(17))
+{
+    foo.extra_data.check_and_act(19);
+}
+```
+",2024-08-19 15:53:39+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,9e7ff6af14855311d9ea44891e440f6799dade13,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1724082819,"clang-format: Put braces on own line in special cases
+
+Multi-line control statements with the opening brace on the
+last line can be a little confusing to read:
+
+```cpp
+if (auto foo = something;
+    foo.extra_data.check_for(17)) {
+    foo.extra_data.check_and_act(19);
+}
+```
+
+It is not easy to see the end of the condition and the
+start of the ""then"" block.
+
+This gets much easier when putting the opening brace on its
+own line:
+
+```cpp
+if (auto foo = something;
+    foo.extra_data.check_for(17))
+{
+    foo.extra_data.check_and_act(19);
+}
+```
+",2024-08-19 15:53:39+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,a0a41dfa72c3f542ad8c2fb9b4f5c8bcf22c5037,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1725478779,"refactor(Base): Part of FairDetector::Initialize to FairRunSim
+
+A part of FairDetector::Initialize updates the sensitive
+volumes related to that Detector(Module). Instead of
+handling this inline, move the code to a new member
+function on FairRunSim.
+",2024-09-04 19:39:39+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,f7ccc00ef9a8262ba437ed2d4d162100830cc807,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1725916962,"refactor(Base): Call GetCurrentTrackNumber directly from FairGenericStack
+
+FairGenericStack is the base class of all ""Stacks"".
+Instead of redirecting via
+`TVirtualMC::GetMC()->GetStack()`, just use `this`.
+
+Introduce GetCurrentTrackID to have better naming and
+separate calling from customizing.
+",2024-09-09 21:22:42+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,6decd1eeb31aba0aa2c196e19b4acafe6f76e854,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1725970491,"refactor(*Stack): Use local variables
+
+... instead of member variable fFSTrackIter.
+
+Deprecate that member variable.
+
+Refactor the map lookup into
+FairGenericStack::FSTrackMapLookup().
+
+Also some little related cleanups (use map.count, const).
+",2024-09-10 12:14:51+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,f5fc5c4ffe165d899e367c6e0b3d05ece8ffc441,Radoslaw Karabowicz <r.karabowicz@gsi.de>,1725973655,"fix(sim): Remove `WriteFolder` from `FairMCApplication::InitGeometry`
+
+The function `WriteFolder` (since the introduction of the `MTMode`)
+was misused to remove the `TFolder` from `gROOT`
+after it was used to create the output tree.
+Purely for that reason `WriteFolder` was called in the `InitGeometry()`.
+This folder is no longer removed in the sink's `WriteFolder()`.
+
+Introduced a new `FairRootManager::RemoveOutputFolderForMtMode()` function
+which removes the `TFolder` from `gROOT`, which is needed in the
+MT mode in TGeant4 transport.
+Used this function in `FairMCApplicaiton::InitGeometry()`
+and in `FairMCApplication::InitFinalizer()`.
+",2024-09-10 13:07:35+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,63b6d7f02d889cfc79f3d3f8cc5d601fbed85207,Radoslaw Karabowicz <r.karabowicz@gsi.de>,1725973655,"fix(sim): Remove `WriteFolder` from `FairMCApplication::InitGeometry`
+
+The function `WriteFolder` (since the introduction of the `MTMode`)
+was misused to remove the `TFolder` from `gROOT`
+after it was used to create the output tree.
+Purely for that reason `WriteFolder` was called in the `InitGeometry()`.
+This folder is no longer removed in the sink's `WriteFolder()`.
+
+Introduced a new `FairRootManager::RemoveOutputFolderForMtMode()` function
+which removes the `TFolder` from `gROOT`, which is needed in the
+MT mode in TGeant4 transport.
+Used this function in `FairMCApplicaiton::InitGeometry()`
+and in `FairMCApplication::InitFinalizer()`.
+",2024-09-10 13:07:35+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,967661232db9771e842c3c7477415857ea25671d,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1725985591,"feat(Base): Improve FairGenericStack::Reset
+
+FairGenericStack::Reset should reset the appropriate member
+variables of FairGenericStack.
+
+Use this in derived Reset functions.
+",2024-09-10 16:26:31+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,23a39ba54401239c93fefe26ee673852288de595,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1726306680,"feat(FairGenericStack): Provide basic current track handling
+
+The templates show a very basic handling of ""the current
+track"" in ""the Stack"". Provide this as a ""default
+implementation"" of FairGenericStack.
+
+People can still override it with a more sophisticated
+variant. examples/FairStack just shows that (currently).
+",2024-09-14 09:38:00+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,986ceb932d06b4be2363b83c06a5740445192e93,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1726505446,"refactor(Base): Introduce FairRootManager::CreateOutputFolder
+",2024-09-16 16:50:46+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,b77353a3246b1a4b4d250e038246470a32073c9e,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1726505446,"refactor(Base): Introduce FairRootManager::CreateOutputFolder
+",2024-09-16 16:50:46+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,c57f2399256350927a4702c440162d8f93b3e01c,Dr. Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1726801696,"Merge 332e015889d414482ff35bb254a6881c05f1d6bc into 23a39ba54401239c93fefe26ee673852288de595
+",2024-09-20 03:08:16+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,9a0b12244f50578b72be3e39e50e58e4b337795f,Yanzhao Wang （王彦昭） <49562465+YanzhaoW@users.noreply.github.com>,1726801698,"Merge d90a6d929b2daa33190b8251bb14626122b931b4 into 23a39ba54401239c93fefe26ee673852288de595
+",2024-09-20 03:08:18+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,4c9558e94f07d19beb7a56a2f2c3e72229f5a930,fuhlig1 <fuhlig1@users.noreply.github.com>,1726801700,"Merge 070d93834d4b3b84705b39b56625d0f12e5f686e into 23a39ba54401239c93fefe26ee673852288de595
+",2024-09-20 03:08:20+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,d70520017bf5ef35509711a6ed608a60d9b0d48d,Dr. Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1726943992,"Merge a0a41dfa72c3f542ad8c2fb9b4f5c8bcf22c5037 into 23a39ba54401239c93fefe26ee673852288de595
+",2024-09-21 18:39:52+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,cbed4b369a961cbd749e8e72602e28e23a0e4bbe,Dr. Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1727077906,"Merge 279bc3140aabb117bb8e749a24525f4b4a9ad464 into 23a39ba54401239c93fefe26ee673852288de595
+",2024-09-23 07:51:46+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,78655558563af33d153f60a8e6aa7db9b1b86dd9,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1727723849,"chore(templates/Stack): Add override
+",2024-09-30 19:17:29+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,5769b5af6587ba2928d8cbf6e03b32c74460c702,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1727726682,"refactor(Stack): Use more GetParticle
+
+GetParticle is thin wrapper. Let's use it more.
+",2024-09-30 20:04:42+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,b663c6a2cc06e7fc1e021555ec263619d7efdfe5,Dr. Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1727727033,"Merge 5769b5af6587ba2928d8cbf6e03b32c74460c702 into 23a39ba54401239c93fefe26ee673852288de595
+",2024-09-30 20:10:33+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,d97b53b698bbb5a4fe29175147a2196d1e5ae70d,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1730890600,"refactor: Drop empty overriden methods in FairDetector classes
+
+Most classes that derive from FairDetector override a bunch
+of member functions with an empty function. But the
+original one is already empty. So there is no need to
+override them.
+
+Just remove all of this.
+
+If someone wants to customize / use those hooks, they can
+override the hook that they need.
+",2024-11-06 10:56:40+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,a2f1ad21349cafb7785c63a073176b06fbb4942d,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1730890600,"refactor: Drop empty overriden methods in FairDetector classes
+
+Most classes that derive from FairDetector override a bunch
+of member functions with an empty function. But the
+original one is already empty. So there is no need to
+override them.
+
+Just remove all of this.
+
+If someone wants to customize / use those hooks, they can
+override the hook that they need.
+",2024-11-06 10:56:40+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,20ba3649de07fafe9928e9c4f23c30351ef2a2aa,Dr. Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1730890863,"Merge a2f1ad21349cafb7785c63a073176b06fbb4942d into 23a39ba54401239c93fefe26ee673852288de595
+",2024-11-06 11:01:03+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,bcab3859355140cbf3c27650d971e2489a910c8e,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1731706847,"chore: Fix .zenodo.json formatting
+
+Our tools prefer spaces not tabs.
+",2024-11-15 21:40:47+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,86fcd80db495a3860fe4a73b809db5fd38d8c634,Dr. Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1731707028,"Merge bcab3859355140cbf3c27650d971e2489a910c8e into 23a39ba54401239c93fefe26ee673852288de595
+",2024-11-15 21:43:48+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,033996f9e442f58d0329875e9a7db5a7e06761d9,Radoslaw Karabowicz <r.karabowicz@gsi.de>,1732271940,"fix(sim): Clarify behaviour for same-name sensitive volumes
+
+The transport engines allow registering of multiple nodes
+with the same volume/same volume name (copy mechanism).
+In `FairRoot` this mechanism works provided unique volume name
+over the whole geometry setup of different detectors.
+
+The commit clarifies the situtation:
+1. for same volume names in one detector, it quenches the log message
+by moving `LOG` and changing it severity
+from `LOG(error)` in `FairVolumeList::addVolume()`
+to `LOG(debug)` in `FairModule::AddSensitiveVolume()`.
+2. for same volume names accross different detectors,
+the program prints appropriate `LOG(fatal)`.
+
+Fixes the issue #1595.
+",2024-11-22 10:39:00+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,2bbadd0dfcd556cf3452bb91910d19f072b12915,Radoslaw Karabowicz <r.karabowicz@gsi.de>,1732271940,"fix(sim): Clarify behaviour for same-name sensitive volumes
+
+The transport engines allow registering of multiple nodes
+with the same volume/same volume name (copy mechanism).
+In `FairRoot` this mechanism works provided unique volume name
+over the whole geometry setup of different detectors.
+
+The commit clarifies the situtation:
+1. for same volume names in one detector, it quenches the log message
+by moving `LOG` and changing it severity
+from `LOG(error)` in `FairVolumeList::addVolume()`
+to `LOG(debug)` in `FairModule::AddSensitiveVolume()`.
+2. for same volume names accross different detectors,
+the program prints appropriate `LOG(fatal)`.
+
+Fixes the issue #1595.
+",2024-11-22 10:39:00+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,3fcd9157e70ffd5ef7e9342a68225a47327e6c17,Radoslaw Karabowicz <r.karabowicz@gsi.de>,1732271940,"fix(sim): Clarify behaviour for same-name sensitive volumes
+
+The transport engines allow registering of multiple nodes
+with the same volume/same volume name (copy mechanism).
+In `FairRoot` this mechanism works provided unique volume name
+over the whole geometry setup of different detectors.
+
+The commit clarifies the situtation:
+1. for same volume names in one detector, it quenches the log message
+by moving `LOG` and changing it severity
+from `LOG(error)` in `FairVolumeList::addVolume()`
+to `LOG(debug)` in `FairModule::AddSensitiveVolume()`.
+2. for same volume names accross different detectors,
+it crashes the program with appropriate `LOG(fatal)`.
+
+Fixes the issue #1595.
+",2024-11-22 10:39:00+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,0b821e25d1a0c6c8c9e12a7a2f470bd39cbda4cc,Alexey Rybalchenko <alexryba@gmail.com>,1732699121,"Update Mac CI nodes
+
+(cherry picked from commit aa8ff4e75031ced4cd339c62a40ae31f42b7be2e)
+",2024-11-27 09:18:41+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,624773e95bd3ca7e40f6ca5b4b61b6ea1417f324,Alexey Rybalchenko <alexryba@gmail.com>,1732699121,"Update Mac CI nodes
+
+(cherry picked from commit aa8ff4e75031ced4cd339c62a40ae31f42b7be2e)
+",2024-11-27 09:18:41+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,aa8ff4e75031ced4cd339c62a40ae31f42b7be2e,Alexey Rybalchenko <alexryba@gmail.com>,1732699121,Update Mac CI nodes,2024-11-27 09:18:41+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,ad8f0fa76dd6c7e07b6dc02c2f0c53336d8c4713,Alexey Rybalchenko <alexryba@gmail.com>,1732699121,"Update Mac CI nodes
+
+(cherry picked from commit aa8ff4e75031ced4cd339c62a40ae31f42b7be2e)
+",2024-11-27 09:18:41+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,bc35864d5101a8ad682f602e0055da3e4fd3ae82,Alexey Rybalchenko <alexryba@gmail.com>,1732699121,Update Mac CI nodes,2024-11-27 09:18:41+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,c52a51f45449af6e12515c28852d68752c21251f,Alexey Rybalchenko <alexryba@gmail.com>,1732699121,Update Mac CI nodes,2024-11-27 09:18:41+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,f8266d51fe8fff20551164e39101a0b47b400588,Alexey Rybalchenko <alexryba@gmail.com>,1733326071,"Disable -Werror=dev in the test build
+",2024-12-04 15:27:51+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,938353179e64a8cc3ef79bcb72795d645623de92,Alexey Rybalchenko <alexryba@gmail.com>,1733326071,"Disable -Werror=dev in the test build
+",2024-12-04 15:27:51+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,92a3586ad9e5075d6e12f2900b3ebb10972d63c1,Alexey Rybalchenko <alexryba@gmail.com>,1733326071,"Disable -Werror=dev in the test build
+
+    (cherry picked from commit f8266d51fe8fff20551164e39101a0b47b400588)
+",2024-12-04 15:27:51+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,1f54022580e89962cefecadb1742e1fdaa0365a1,Alexey Rybalchenko <alexryba@gmail.com>,1733326071,"Disable -Werror=dev in the test build
+
+(cherry picked from commit f8266d51fe8fff20551164e39101a0b47b400588)
+",2024-12-04 15:27:51+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,42036b10f11d4c00a3fe7bcbfcb59c9300db6022,Alexey Rybalchenko <alexryba@gmail.com>,1733326071,"Disable -Werror=dev in the test build
+",2024-12-04 15:27:51+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,42799531fc5ba8a6ef2be7e66781c613e07b7f35,Alexey Rybalchenko <alexryba@gmail.com>,1733326071,"Disable -Werror=dev in the test build
+
+(cherry picked from commit f8266d51fe8fff20551164e39101a0b47b400588)
+",2024-12-04 15:27:51+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,1d1c07f336b2e37c227441cef56aeebdfe6d4d5c,Alexey Rybalchenko <alexryba@gmail.com>,1733840451,"Merge 938353179e64a8cc3ef79bcb72795d645623de92 into 23a39ba54401239c93fefe26ee673852288de595
+",2024-12-10 14:20:51+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,4a7687eb2d788a2c8706bd9983feeb88d064eebc,Radoslaw Karabowicz <r.karabowicz@gsi.de>,1734538568,"Merge 3fcd9157e70ffd5ef7e9342a68225a47327e6c17 into 23a39ba54401239c93fefe26ee673852288de595
+",2024-12-18 16:16:08+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,6be3cb0bef8e22567c31ea97c852fad86af70883,jose-luis-rs <joseluis.rodriguez.sanchez@usc.es>,1736506780,"style(fairroot/base/sim): Added spaces in FairModule to separate material and volume names from comments
+
+docs(CONTRIBUTORS): Added my name to the contributor list
+",2025-01-10 10:59:40+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,d0860cbb56c76f2dab7d5203ded60047b008a62a,jose-luis-rs <joseluis.rodriguez.sanchez@usc.es>,1736506780,"style(fairroot/base/sim): Added spaces in FairModule to separate material and volume names from comments
+
+docs(CONTRIBUTORS): Added my name to the contributor list
+",2025-01-10 10:59:40+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,3b7cc4fa2871caeeb94fe6aa483181f2249984c7,jose-luis-rs <joseluis.rodriguez.sanchez@usc.es>,1737647650,"docs: Added my name to the zenodo and codemeta files
+",2025-01-23 15:54:10+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,d16b36ac78cf36a35bd661ccfa0ae7d02a33a453,jose-luis-rs <joseluis.rodriguez.sanchez@usc.es>,1737647650,"docs: Added my name to the zenodo and codemeta files
+",2025-01-23 15:54:10+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,411b2f7a794cd57afa958d104ff6a40ce2299d28,Radoslaw Karabowicz <r.karabowicz@gsi.de>,1738058791,"Merge 033996f9e442f58d0329875e9a7db5a7e06761d9 into d16b36ac78cf36a35bd661ccfa0ae7d02a33a453
+",2025-01-28 10:06:31+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,c5e14604cac2df03c62c1350d08615c7b2b54393,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1738062503,"chore(templates/Stack): Add override
+",2025-01-28 11:08:23+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,a5a9eddae29e0c0fe1b3f8676a33a13dcc8a603d,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1738065349,"refactor(Stack): Use more GetParticle
+
+GetParticle is a thin wrapper. Let's use it more.
+",2025-01-28 11:55:49+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,1173e60f1a4b53ee6810bd174dca40435d77ed88,Dr. Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1738065419,"Merge a5a9eddae29e0c0fe1b3f8676a33a13dcc8a603d into d16b36ac78cf36a35bd661ccfa0ae7d02a33a453
+",2025-01-28 11:56:59+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,59f622604eb9dfa382948f018d2368ae80648ffc,Yanzhao Wang （王彦昭） <yannzhaow@gmail.com>,1738072441,"Merge d90a6d929b2daa33190b8251bb14626122b931b4 into d16b36ac78cf36a35bd661ccfa0ae7d02a33a453
+",2025-01-28 13:54:01+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,5cab23296b7e0414d9d7134efd6434a2faa8c6da,Dr. Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1738072441,"Merge bcab3859355140cbf3c27650d971e2489a910c8e into d16b36ac78cf36a35bd661ccfa0ae7d02a33a453
+",2025-01-28 13:54:01+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,a287bcc9c27f1277752cdce4bf0118cb5a0c9efb,fuhlig1 <fuhlig1@users.noreply.github.com>,1738072441,"Merge 070d93834d4b3b84705b39b56625d0f12e5f686e into d16b36ac78cf36a35bd661ccfa0ae7d02a33a453
+",2025-01-28 13:54:01+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,589e8f7dd8d0803e1e6cb3bbab4dd3c1e7c6eed5,Dr. Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1738072442,"Merge 279bc3140aabb117bb8e749a24525f4b4a9ad464 into d16b36ac78cf36a35bd661ccfa0ae7d02a33a453
+",2025-01-28 13:54:02+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,7a0b075aa1c6326b708658b9a8ac381f631cd3b0,Dr. Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1738072443,"Merge 332e015889d414482ff35bb254a6881c05f1d6bc into d16b36ac78cf36a35bd661ccfa0ae7d02a33a453
+",2025-01-28 13:54:03+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,aa41dce9566606b847543df17a1e569d3b3c72ee,Dr. Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1738072443,"Merge a0a41dfa72c3f542ad8c2fb9b4f5c8bcf22c5037 into d16b36ac78cf36a35bd661ccfa0ae7d02a33a453
+",2025-01-28 13:54:03+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,cd0a8d6ee74c797fae3a31c7c2ec59367ade5eaf,Alexey Rybalchenko <alexryba@gmail.com>,1738072451,"Merge 938353179e64a8cc3ef79bcb72795d645623de92 into d16b36ac78cf36a35bd661ccfa0ae7d02a33a453
+",2025-01-28 13:54:11+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,2eb8719f89d9d4decf66f0001cbb523b4a5df89f,Florian Uhlig <f.uhlig@gsi.de>,1742314249,"refactor: Remove pythia6 dependency in Geant4 config files
+
+Instead of hardcoding the decayer get it from VMC.
+",2025-03-18 16:10:49+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,3ad3ae119c06d45ccab38b3008614e53d9dfd921,Florian Uhlig <f.uhlig@gsi.de>,1742314249,"refactor: Remove pythia6 dependency in Geant4 config files
+
+Instead of hardcoding the decayer get it from VMC.
+
+(cherry picked from commit 2eb8719f89d9d4decf66f0001cbb523b4a5df89f)
+",2025-03-18 16:10:49+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,91769ef2a43b4541a0905019fa40bb0ce50487b1,Florian Uhlig <f.uhlig@gsi.de>,1742314249,"refactor: Remove pythia6 dependency in Geant4 config files
+
+Instead of hardcoding the decayer get it from VMC.
+",2025-03-18 16:10:49+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,ecae76872b408c75283192b03a0aaa4ee8f4bd19,Florian Uhlig <f.uhlig@gsi.de>,1742314249,"refactor: Remove pythia6 dependency in Geant4 config files
+
+Instead of hardcoding the decayer get it from VMC.
+
+    (cherry picked from commit 2eb8719f89d9d4decf66f0001cbb523b4a5df89f)
+",2025-03-18 16:10:49+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,f608aa7ab4fcd85a3f928fcd3d6f8d60198784e7,Florian Uhlig <f.uhlig@gsi.de>,1742314249,"refactor: Remove pythia6 dependency in Geant4 config files
+
+Instead of hardcoding the decayer get it from VMC.
+
+(cherry picked from commit 2eb8719f89d9d4decf66f0001cbb523b4a5df89f)
+",2025-03-18 16:10:49+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,c4911a32d043e5497a67d56286f21d5ec7c84eda,Florian Uhlig <f.uhlig@gsi.de>,1742314392,"fix(test): Run tests only if pythia is available
+
+ROOT has dropped pythia6 support with recent version. Execute the Pythia
+related tests only if Pythia6 and/or Pythia8 is available.
+",2025-03-18 16:13:12+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,ab4db5e41589754c33677b06c1d30a6abf1a8736,Florian Uhlig <f.uhlig@gsi.de>,1742314392,"fix(test): Run tests only if pythia is available
+
+ROOT has dropped pythia6 support with recent version. Execute the Pythia
+related tests only if Pythia6 and/or Pythia8 is available.
+",2025-03-18 16:13:12+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,430fdf914ba17e5640c1d971bba5b5fcfa6284c7,Florian Uhlig <f.uhlig@gsi.de>,1742314392,"fix(test): Run tests only if pythia is available
+
+ROOT has dropped pythia6 support with recent version. Execute the Pythia
+related tests only if Pythia6 and/or Pythia8 is available.
+
+(cherry picked from commit ab4db5e41589754c33677b06c1d30a6abf1a8736)
+",2025-03-18 16:13:12+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,4a42a9d7209a068d3f29de9c3fb77121ba5feeb2,Florian Uhlig <f.uhlig@gsi.de>,1742314392,"fix(test): Run tests only if pythia is available
+
+ROOT has dropped pythia6 support with recent version. Execute the Pythia
+related tests only if Pythia6 and/or Pythia8 is available.
+
+(cherry picked from commit ab4db5e41589754c33677b06c1d30a6abf1a8736)
+",2025-03-18 16:13:12+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,8aaaa5e2f9cc8f967b09213e36a9a4f941c66d55,Florian Uhlig <f.uhlig@gsi.de>,1742314392,"fix(test): Run tests only if pythia is available
+
+ROOT has dropped pythia6 support with recent version. Execute the Pythia
+related tests only if Pythia6 and/or Pythia8 is available.
+
+    (cherry picked from commit ab4db5e41589754c33677b06c1d30a6abf1a8736)
+",2025-03-18 16:13:12+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,010bad7c0be1b22132cef1c3b5e09a616e0d488a,Florian Uhlig <f.uhlig@gsi.de>,1742316943,"refactor: Remove gMC
+
+Use the static TVirualMC::GetMC() method instead of the global pointer.
+
+    (cherry picked from commit 5ed6796b0e063b035ec8a79eddedacf6edaa74ea)
+",2025-03-18 16:55:43+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,50bcff860e3d7f45ddee67dc568e18da71942ac1,Florian Uhlig <f.uhlig@gsi.de>,1742316943,"refactor: Remove gMC
+
+Use the static TVirualMC::GetMC() method instead of the global pointer.
+
+(cherry picked from commit 5ed6796b0e063b035ec8a79eddedacf6edaa74ea)
+",2025-03-18 16:55:43+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,5ed6796b0e063b035ec8a79eddedacf6edaa74ea,Florian Uhlig <f.uhlig@gsi.de>,1742316943,"refactor: Remove gMC
+
+Use the static TVirualMC::GetMC() method instead of the global pointer.
+",2025-03-18 16:55:43+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,6adff038d7423a8957747c3c230f254fcf6c6fd6,Florian Uhlig <f.uhlig@gsi.de>,1742316943,"refactor: Remove gMC
+
+Use the static TVirualMC::GetMC() method instead of the global pointer.
+
+(cherry picked from commit 5ed6796b0e063b035ec8a79eddedacf6edaa74ea)
+",2025-03-18 16:55:43+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,eaa2fa284a19e3cb95a6258a2347734176c4ee95,Florian Uhlig <f.uhlig@gsi.de>,1742316943,"refactor: Remove gMC
+
+Use the static TVirualMC::GetMC() method instead of the global pointer.
+",2025-03-18 16:55:43+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,aa00854ae207e5bee45f3a3409180470339f1d12,Florian Uhlig <f.uhlig@gsi.de>,1742369596,"build: Disable ROOT::Proof support by default with ROOT 6.32+
+
+(cherry-picked from commit 7aa170e627dccec2765d4fd234136baaaca98803)
+",2025-03-19 07:33:16+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,f28e9181969d8cce6cbf4647ca9d98f8f78e0a26,Florian Uhlig <f.uhlig@gsi.de>,1742369596,"build: Disable ROOT::Proof support by default with ROOT 6.32+
+
+(cherry-picked from commit 7aa170e627dccec2765d4fd234136baaaca98803)
+",2025-03-19 07:33:16+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,2dffb11eb1ea716ed8838b285ea0042c728fda98,Florian Uhlig <f.uhlig@gsi.de>,1742381417,"fix(build): Fix issue with cmake > 3.30
+
+CMake 3.31 deprecate Compatibility with CMake < 3.10 which emits two warnings
+from Geant4 and vgm cmake macros. The usage of -Werror=dev turns the warning
+into an error which breaks the CI for some systems which already use
+cmake 3.31.
+",2025-03-19 10:50:17+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,2d78ca898fe640e5344be9f1886c840899fe5d91,Radoslaw Karabowicz <r.karabowicz@gsi.de>,1749562991,"fix(sim): Add GetSaveCurrentEvent() to FairMCApplication
+
+Allows the user to get the state of the fSaveCurrentEvent flag.
+
+Fixes issue #1604.
+",2025-06-10 13:43:11+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,7dae0b8af78d3072c392ea8663207ded39c50ff7,Radoslaw Karabowicz <r.karabowicz@gsi.de>,1749807474,"fix(steer): Add GetMarkFill() to FairRun
+
+Allows the user to get the state of the fMarkFill flag.
+
+Fixes issue #1604.
+",2025-06-13 09:37:54+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,other,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,0c088da8426d2a6017007035af337af0fcf4062c,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1749892405,"workflow: Mark issues/PRs as stale
+
+After a year of inactivity, mark issues and PRs as stale to
+help with triaging.
+
+Runs only weekly and acts on very few items to reduce
+flooding developers.
+",2025-06-14 09:13:25+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,gap_end,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,d6b91e10bda05978b64d6def8d66d8c55b88ffb6,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1750067136,"fix(workflow): Stale needs more Operations
+
+The last run used 4 operations and did not even post a
+comment. So raise this to 5 (from 2).
+",2025-06-16 09:45:36+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,after_gap_end,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,f4f8e6ef644430d1aace2212513954b3b14b7fc8,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1750710557,"feat(workflow): Add stale comment messages
+
+Also let the bot post a message about what it is doing.
+",2025-06-23 20:29:17+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,after_gap_end,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,b3a0a269b9fdbbfb982411eea3fb8a7007339ae7,Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>,1752095452,"fix(workflow/stale): More Permissions needed
+
+To delete / update its cache the stale workflow needs more
+permissions.
+
+See-Also: https://github.com/actions/stale/issues/1159
+",2025-07-09 21:10:52+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,after_gap_end,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,114f0a73f387e87dc0b0ca48c035ee8b02be01d1,Florian Uhlig <f.uhlig@gsi.de>,1752226682,"fix(build): Properly pass CMAKE_OSX_SYSROOT to rootcint
+
+This change allows to build dictionaries with a non default macosx
+software development package (SDK). This is needed to be able to
+compile older ROOT versions on new compiler versions.
+",2025-07-11 09:38:02+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,after_gap_end,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,15a231d0bb1ee10d5b10ef570061e5f2bec212c1,Florian Uhlig <f.uhlig@gsi.de>,1752226682,"fix(build): Properly pass CMAKE_OSX_SYSROOT to rootcint
+
+This change allows to build dictionaries with a non default macosx
+software development package (SDK). This is needed to be able to
+compile older ROOT versions on new compiler versions.
+
+(cherry picked from commit 53782ee7901d2c7e87c0431236e817a7ff8f03c9)
+",2025-07-11 09:38:02+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,after_gap_end,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,4fb2dcf4b7e597437e9506c06af1465cba687348,Florian Uhlig <f.uhlig@gsi.de>,1752226682,"fix(build): Properly pass CMAKE_OSX_SYSROOT to rootcint
+
+This change allows to build dictionaries with a non default macosx
+software development package (SDK). This is needed to be able to
+compile older ROOT versions on new compiler versions.
+
+(cherry picked from commit 53782ee7901d2c7e87c0431236e817a7ff8f03c9)
+",2025-07-11 09:38:02+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,after_gap_end,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,53782ee7901d2c7e87c0431236e817a7ff8f03c9,Florian Uhlig <f.uhlig@gsi.de>,1752226682,"fix(build): Properly pass CMAKE_OSX_SYSROOT to rootcint
+
+This change allows to build dictionaries with a non default macosx
+software development package (SDK). This is needed to be able to
+compile older ROOT versions on new compiler versions.
+",2025-07-11 09:38:02+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,after_gap_end,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,68d8f4999bdfe6d600895195e3f3afb6c41e3d7f,Florian Uhlig <f.uhlig@gsi.de>,1752226682,"fix(build): Properly pass CMAKE_OSX_SYSROOT to rootcint
+
+This change allows to build dictionaries with a non default macosx
+software development package (SDK). This is needed to be able to
+compile older ROOT versions on new compiler versions.
+
+(cherry picked from commit 53782ee7901d2c7e87c0431236e817a7ff8f03c9)
+",2025-07-11 09:38:02+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,after_gap_end,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,807da13c4afae1059db14cd900814fea817c1cc3,Florian Uhlig <f.uhlig@gsi.de>,1752226682,"fix(build): Properly pass CMAKE_OSX_SYSROOT to rootcint
+
+This change allows to build dictionaries with a non default macosx
+software development package (SDK). This is needed to be able to
+compile older ROOT versions on new compiler versions.
+",2025-07-11 09:38:02+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,after_gap_end,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+fairrootgroup_fairroot,a555d1c021ce0b017ecbf272b4e87be850019f1f,Florian Uhlig <f.uhlig@gsi.de>,1752226682,"fix(build): Properly pass CMAKE_OSX_SYSROOT to rootcint
+
+This change allows to build dictionaries with a non default macosx
+software development package (SDK). This is needed to be able to
+compile older ROOT versions on new compiler versions.
+
+(cherry picked from commit 53782ee7901d2c7e87c0431236e817a7ff8f03c9)
+",2025-07-11 09:38:02+00:00,fairrootgroup_fairroot,https://github.com/FairRootGroup/FairRoot,fairrootgroup/fairroot,after_gap_end,2024-05-23 13:27:29+00:00,2025-06-14 09:13:25+00:00
+gabinsane_multimodal-vae-comparison,bb34aa8eef5e1b612caa8c48722fc028ba728bb0,Gabriela Sejnova <38910946+gabinsane@users.noreply.github.com>,1697795228,Update README.md,2023-10-20 09:47:08+00:00,gabinsane_multimodal-vae-comparison,https://github.com/gabinsane/multimodal-vae-comparison,gabinsane/multimodal-vae-comparison,before_gap_start,2024-03-25 14:21:54+00:00,2025-05-19 21:02:29+00:00
+gabinsane_multimodal-vae-comparison,8cda3f64629d4faecd510b13825dcb4a3056aaae,Gabriela Sejnova <sejnogab@gpu1.felk.cvut.cz>,1698147854,"pl lightning 2.0 compatibility
+",2023-10-24 11:44:14+00:00,gabinsane_multimodal-vae-comparison,https://github.com/gabinsane/multimodal-vae-comparison,gabinsane/multimodal-vae-comparison,before_gap_start,2024-03-25 14:21:54+00:00,2025-05-19 21:02:29+00:00
+gabinsane_multimodal-vae-comparison,170d84a46d9c50c37dff507ae34d2fa458b21091,Gabriela Sejnova <sejnogab@gpu1.felk.cvut.cz>,1698147914,"pl lightning 2.0 compatibility
+",2023-10-24 11:45:14+00:00,gabinsane_multimodal-vae-comparison,https://github.com/gabinsane/multimodal-vae-comparison,gabinsane/multimodal-vae-comparison,before_gap_start,2024-03-25 14:21:54+00:00,2025-05-19 21:02:29+00:00
+gabinsane_multimodal-vae-comparison,358fc47b9e87f402a94cf15796080dd4993681f3,Gabriela Sejnova <38910946+gabinsane@users.noreply.github.com>,1698148959,Update README.md,2023-10-24 12:02:39+00:00,gabinsane_multimodal-vae-comparison,https://github.com/gabinsane/multimodal-vae-comparison,gabinsane/multimodal-vae-comparison,before_gap_start,2024-03-25 14:21:54+00:00,2025-05-19 21:02:29+00:00
+gabinsane_multimodal-vae-comparison,aee51b0e309bc87280c5c7fcf70b74d6d244da2a,Gabriela Sejnova <38910946+gabinsane@users.noreply.github.com>,1701251108,Update README.md,2023-11-29 09:45:08+00:00,gabinsane_multimodal-vae-comparison,https://github.com/gabinsane/multimodal-vae-comparison,gabinsane/multimodal-vae-comparison,before_gap_start,2024-03-25 14:21:54+00:00,2025-05-19 21:02:29+00:00
+gabinsane_multimodal-vae-comparison,3bf6c4e027179ba1ba68734077e9d47e6d0e07ee,Gabriela Sejnova <38910946+gabinsane@users.noreply.github.com>,1701251179,Update README.md,2023-11-29 09:46:19+00:00,gabinsane_multimodal-vae-comparison,https://github.com/gabinsane/multimodal-vae-comparison,gabinsane/multimodal-vae-comparison,before_gap_start,2024-03-25 14:21:54+00:00,2025-05-19 21:02:29+00:00
+gabinsane_multimodal-vae-comparison,846c8dce7f3a08935b75b9fd5dd7cc7ed8102e44,Gabriela Šejnová <g.sejnova@gmail.com>,1701262220,"eval scripts, fixes
+",2023-11-29 12:50:20+00:00,gabinsane_multimodal-vae-comparison,https://github.com/gabinsane/multimodal-vae-comparison,gabinsane/multimodal-vae-comparison,before_gap_start,2024-03-25 14:21:54+00:00,2025-05-19 21:02:29+00:00
+gabinsane_multimodal-vae-comparison,2c5fbdfd8e7a86adc9dd37826fb352f12ae13651,Gabriela Šejnová <g.sejnova@gmail.com>,1710430373,"docs
+",2024-03-14 15:32:53+00:00,gabinsane_multimodal-vae-comparison,https://github.com/gabinsane/multimodal-vae-comparison,gabinsane/multimodal-vae-comparison,before_gap_start,2024-03-25 14:21:54+00:00,2025-05-19 21:02:29+00:00
+gabinsane_multimodal-vae-comparison,3051d1f2807996b944717b7550bdb93e263432fe,Gabriela Sejnova <38910946+gabinsane@users.noreply.github.com>,1711376239,Update README.md,2024-03-25 14:17:19+00:00,gabinsane_multimodal-vae-comparison,https://github.com/gabinsane/multimodal-vae-comparison,gabinsane/multimodal-vae-comparison,before_gap_start,2024-03-25 14:21:54+00:00,2025-05-19 21:02:29+00:00
+gabinsane_multimodal-vae-comparison,52959a8fc39d03b36489c0342f6f30cea873543f,Gabriela Šejnová <g.sejnova@gmail.com>,1711376511,"docs update
+",2024-03-25 14:21:51+00:00,gabinsane_multimodal-vae-comparison,https://github.com/gabinsane/multimodal-vae-comparison,gabinsane/multimodal-vae-comparison,before_gap_start,2024-03-25 14:21:54+00:00,2025-05-19 21:02:29+00:00
+gabinsane_multimodal-vae-comparison,7e11d80d99a92b00ebae688c8b3b9741fa54460f,Gabriela Šejnová <g.sejnova@gmail.com>,1711376514,"Merge branch 'main' of https://github.com/gabinsane/multimodal-vae-comparison into main
+",2024-03-25 14:21:54+00:00,gabinsane_multimodal-vae-comparison,https://github.com/gabinsane/multimodal-vae-comparison,gabinsane/multimodal-vae-comparison,gap_start,2024-03-25 14:21:54+00:00,2025-05-19 21:02:29+00:00
+gabinsane_multimodal-vae-comparison,2b739b940c517d75ba053242ddf65dadccc69379,GabrielaSejnova <gabriela.sejnova@cvut.cz>,1747688549,"vilanro-trimodal added
+",2025-05-19 21:02:29+00:00,gabinsane_multimodal-vae-comparison,https://github.com/gabinsane/multimodal-vae-comparison,gabinsane/multimodal-vae-comparison,gap_end,2024-03-25 14:21:54+00:00,2025-05-19 21:02:29+00:00
+gabinsane_multimodal-vae-comparison,975d69c18960a70373f2afef0a6367206b0eeb15,GabrielaSejnova <gabriela.sejnova@cvut.cz>,1747688929,"updates
+",2025-05-19 21:08:49+00:00,gabinsane_multimodal-vae-comparison,https://github.com/gabinsane/multimodal-vae-comparison,gabinsane/multimodal-vae-comparison,after_gap_end,2024-03-25 14:21:54+00:00,2025-05-19 21:02:29+00:00
+gabinsane_multimodal-vae-comparison,ac0e5ea3e4fc0a51cffa873f72566838cc809021,GabrielaSejnova <gabriela.sejnova@cvut.cz>,1747688996,"update README
+",2025-05-19 21:09:56+00:00,gabinsane_multimodal-vae-comparison,https://github.com/gabinsane/multimodal-vae-comparison,gabinsane/multimodal-vae-comparison,after_gap_end,2024-03-25 14:21:54+00:00,2025-05-19 21:02:29+00:00
+gabinsane_multimodal-vae-comparison,5cfef9a20fae810e716573c7b07b8a504d98d6ad,GabrielaSejnova <gabriela.sejnova@cvut.cz>,1747690487,"bug fixes
+",2025-05-19 21:34:47+00:00,gabinsane_multimodal-vae-comparison,https://github.com/gabinsane/multimodal-vae-comparison,gabinsane/multimodal-vae-comparison,after_gap_end,2024-03-25 14:21:54+00:00,2025-05-19 21:02:29+00:00
+geoknow_linkedgeodata,b72bb6ac9d8eaf748ccbdc543e3c283594f893a7,Claus Stadler <RavenArkadon@googlemail.com>,1652884688,"Upgraded mappings to geosparql (no more geovocab).
+Goodbye /triplify - Hello /resource
+",2022-05-18 14:38:08+00:00,geoknow_linkedgeodata,https://github.com/GeoKnow/LinkedGeoData,geoknow/linkedgeodata,before_gap_start,2022-10-25 15:50:15+00:00,2024-09-29 08:26:09+00:00
+geoknow_linkedgeodata,a95377fe22b3ee2cea3f7f1deebfd06f1b692e00,Claus Stadler <RavenArkadon@googlemail.com>,1652889292,"Updated mapping file path in sparqlify docker container
+",2022-05-18 15:54:52+00:00,geoknow_linkedgeodata,https://github.com/GeoKnow/LinkedGeoData,geoknow/linkedgeodata,before_gap_start,2022-10-25 15:50:15+00:00,2024-09-29 08:26:09+00:00
+geoknow_linkedgeodata,11087a577e227047c2805d263ccea9209d02c311,Claus Stadler <RavenArkadon@googlemail.com>,1652889926,"Replaced 'triplify' with 'resource' in pubby config
+",2022-05-18 16:05:26+00:00,geoknow_linkedgeodata,https://github.com/GeoKnow/LinkedGeoData,geoknow/linkedgeodata,before_gap_start,2022-10-25 15:50:15+00:00,2024-09-29 08:26:09+00:00
+geoknow_linkedgeodata,eb2db207ddc516309f077c67021168608e7aade8,dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>,1653084820,"Bump gson from 2.2.2 to 2.8.9 in /legacy
+
+Bumps [gson](https://github.com/google/gson) from 2.2.2 to 2.8.9.
+- [Release notes](https://github.com/google/gson/releases)
+- [Changelog](https://github.com/google/gson/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/google/gson/compare/gson-2.2.2...gson-parent-2.8.9)
+
+---
+updated-dependencies:
+- dependency-name: com.google.code.gson:gson
+  dependency-type: direct:production
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>",2022-05-20 22:13:40+00:00,geoknow_linkedgeodata,https://github.com/GeoKnow/LinkedGeoData,geoknow/linkedgeodata,before_gap_start,2022-10-25 15:50:15+00:00,2024-09-29 08:26:09+00:00
+geoknow_linkedgeodata,806da46b5e92bc6d288fc759b7a290ea5e5cc1ed,Claus Stadler <RavenArkadon@googlemail.com>,1654620995,"Towards sophox compatibility
+",2022-06-07 16:56:35+00:00,geoknow_linkedgeodata,https://github.com/GeoKnow/LinkedGeoData,geoknow/linkedgeodata,before_gap_start,2022-10-25 15:50:15+00:00,2024-09-29 08:26:09+00:00
+geoknow_linkedgeodata,e1cd1feffb5708f86d52a78b1c4f2adbcec1be22,Claus Stadler <RavenArkadon@googlemail.com>,1654691354,"First working sophox compatibility (only tested with standalone mappings; not tested with docker setup)
+",2022-06-08 12:29:14+00:00,geoknow_linkedgeodata,https://github.com/GeoKnow/LinkedGeoData,geoknow/linkedgeodata,before_gap_start,2022-10-25 15:50:15+00:00,2024-09-29 08:26:09+00:00
+geoknow_linkedgeodata,3b6018654eb6e776ff63d1f071437a3289751061,Claus Stadler <RavenArkadon@googlemail.com>,1654794066,"Added support for local datasets; tuning of default postgres config
+",2022-06-09 17:01:06+00:00,geoknow_linkedgeodata,https://github.com/GeoKnow/LinkedGeoData,geoknow/linkedgeodata,before_gap_start,2022-10-25 15:50:15+00:00,2024-09-29 08:26:09+00:00
+geoknow_linkedgeodata,9f26228529c8f4578197e58ab79db4ebd2ee63f8,Claus Stadler <RavenArkadon@googlemail.com>,1654816627,"Gometry view now properly prioritizes polygons of nominatim over the raw ones
+",2022-06-09 23:17:07+00:00,geoknow_linkedgeodata,https://github.com/GeoKnow/LinkedGeoData,geoknow/linkedgeodata,before_gap_start,2022-10-25 15:50:15+00:00,2024-09-29 08:26:09+00:00
+geoknow_linkedgeodata,125af9fe5186a7669f4d445e39e58c911fccce2a,Jens Lehmann <jens.lehmann@cs.uni-bonn.de>,1665649609,Update imprint.md,2022-10-13 08:26:49+00:00,geoknow_linkedgeodata,https://github.com/GeoKnow/LinkedGeoData,geoknow/linkedgeodata,before_gap_start,2022-10-25 15:50:15+00:00,2024-09-29 08:26:09+00:00
+geoknow_linkedgeodata,acadf1fb6284b796f32c1ea396dc5e3fac10849b,Jens Lehmann <jens.lehmann@cs.uni-bonn.de>,1665839997,linked to all downloads,2022-10-15 13:19:57+00:00,geoknow_linkedgeodata,https://github.com/GeoKnow/LinkedGeoData,geoknow/linkedgeodata,before_gap_start,2022-10-25 15:50:15+00:00,2024-09-29 08:26:09+00:00
+geoknow_linkedgeodata,1923e095525a71d8a9c7f07a46346f40994ef8b6,Claus Stadler <cstadler@informatik.uni-leipzig.de>,1666713015,Update _config.yml,2022-10-25 15:50:15+00:00,geoknow_linkedgeodata,https://github.com/GeoKnow/LinkedGeoData,geoknow/linkedgeodata,gap_start,2022-10-25 15:50:15+00:00,2024-09-29 08:26:09+00:00
+geoknow_linkedgeodata,6bb4ad792eae49cf6dc0f9c61fea37fc9ff28bda,Claus Stadler <cstadler@informatik.uni-leipzig.de>,1727598369,Update downloads.md,2024-09-29 08:26:09+00:00,geoknow_linkedgeodata,https://github.com/GeoKnow/LinkedGeoData,geoknow/linkedgeodata,gap_end,2022-10-25 15:50:15+00:00,2024-09-29 08:26:09+00:00
+geoknow_linkedgeodata,ab35ce404eb72479e4ea13da3301cb760090e9fb,dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>,1732125354,"Merge eb2db207ddc516309f077c67021168608e7aade8 into 6bb4ad792eae49cf6dc0f9c61fea37fc9ff28bda
+",2024-11-20 17:55:54+00:00,geoknow_linkedgeodata,https://github.com/GeoKnow/LinkedGeoData,geoknow/linkedgeodata,after_gap_end,2022-10-25 15:50:15+00:00,2024-09-29 08:26:09+00:00
+geospace-code_pymap3d,7734e14cdcbab479ba785c22f8a62a26d82035d3,scivision <scivision@users.noreply.github.com>,1706500283,"simplify publish
+",2024-01-29 03:51:23+00:00,geospace-code_pymap3d,https://github.com/geospace-code/pymap3d,geospace-code/pymap3d,before_gap_start,2024-05-07 21:01:10+00:00,2025-01-08 05:09:50+00:00
+geospace-code_pymap3d,ae99bacc9a5b733d4ba28778e9a001a746cf7020,scivision <scivision@users.noreply.github.com>,1706501003,"tests: trap matlab engine runtimeerror
+",2024-01-29 04:03:23+00:00,geospace-code_pymap3d,https://github.com/geospace-code/pymap3d,geospace-code/pymap3d,before_gap_start,2024-05-07 21:01:10+00:00,2025-01-08 05:09:50+00:00
+geospace-code_pymap3d,01ced368e460ea412a28d8e0d91d40b9ea43cd98,scivision <scivision@users.noreply.github.com>,1706501945,"test_aer: scalar output verify
+",2024-01-29 04:19:05+00:00,geospace-code_pymap3d,https://github.com/geospace-code/pymap3d,geospace-code/pymap3d,before_gap_start,2024-05-07 21:01:10+00:00,2025-01-08 05:09:50+00:00
+geospace-code_pymap3d,dc652b8944f8d5d2e746baadfa8ead80c6438184,scivision <scivision@users.noreply.github.com>,1706502982,"ecef2geodetic: scalar-in, scalar-out
+fixes #93
+",2024-01-29 04:36:22+00:00,geospace-code_pymap3d,https://github.com/geospace-code/pymap3d,geospace-code/pymap3d,before_gap_start,2024-05-07 21:01:10+00:00,2025-01-08 05:09:50+00:00
+geospace-code_pymap3d,4f2e7eb70c115f292094f1f95e916d2f0c90ffcb,scivision <scivision@users.noreply.github.com>,1706503003,"test{aer,geodetic,ned} verify scalar-in,scalar-out
+",2024-01-29 04:36:43+00:00,geospace-code_pymap3d,https://github.com/geospace-code/pymap3d,geospace-code/pymap3d,before_gap_start,2024-05-07 21:01:10+00:00,2025-01-08 05:09:50+00:00
+geospace-code_pymap3d,f3a3a53c122f75c9f7d3278e8701ba6323428687,scivision <scivision@users.noreply.github.com>,1706504931,"ecef2geodetic: avoid NaN and needless computation
+attempt to fix #87
+",2024-01-29 05:08:51+00:00,geospace-code_pymap3d,https://github.com/geospace-code/pymap3d,geospace-code/pymap3d,before_gap_start,2024-05-07 21:01:10+00:00,2025-01-08 05:09:50+00:00
+geospace-code_pymap3d,0bb4350d45929ebff69047260f7934b30b5e9bae,scivision <scivision@users.noreply.github.com>,1707612001,"Ellipsoid: canonical default instead of None
+",2024-02-11 00:40:01+00:00,geospace-code_pymap3d,https://github.com/geospace-code/pymap3d,geospace-code/pymap3d,before_gap_start,2024-05-07 21:01:10+00:00,2025-01-08 05:09:50+00:00
+geospace-code_pymap3d,3f34261e3fee37dc82d1d9293a9fdcb4d4171c81,Ashwin Gupta <ashwingupta2000@gmail.com>,1715109879,"enu2ecefv
+",2024-05-07 19:24:39+00:00,geospace-code_pymap3d,https://github.com/geospace-code/pymap3d,geospace-code/pymap3d,before_gap_start,2024-05-07 21:01:10+00:00,2025-01-08 05:09:50+00:00
+geospace-code_pymap3d,2512c971a03414d333ae6fde2f340b9e1a7aae3a,Ashwin Gupta <ashwingupta2000@gmail.com>,1715109879,"enu2ecefv
+",2024-05-07 19:24:39+00:00,geospace-code_pymap3d,https://github.com/geospace-code/pymap3d,geospace-code/pymap3d,before_gap_start,2024-05-07 21:01:10+00:00,2025-01-08 05:09:50+00:00
+geospace-code_pymap3d,0188761386a0e0c9e4c3ce3e3b8c1749fe548f80,Ashwin Gupta <ashwingupta2000@gmail.com>,1715115670,"format changes
+",2024-05-07 21:01:10+00:00,geospace-code_pymap3d,https://github.com/geospace-code/pymap3d,geospace-code/pymap3d,before_gap_start,2024-05-07 21:01:10+00:00,2025-01-08 05:09:50+00:00
+geospace-code_pymap3d,da9291b56ba7fc8e31bc39700d7abe8f15b86508,Ashwin Gupta <ashwingupta2000@gmail.com>,1715115670,"format changes
+",2024-05-07 21:01:10+00:00,geospace-code_pymap3d,https://github.com/geospace-code/pymap3d,geospace-code/pymap3d,gap_start,2024-05-07 21:01:10+00:00,2025-01-08 05:09:50+00:00
+geospace-code_pymap3d,511d7c79074d4a14ade216a5d3d72236d1f485c3,Ashwin Gupta <ashwingupta2000@gmail.com>,1715116673,"Merge 0188761386a0e0c9e4c3ce3e3b8c1749fe548f80 into 0bb4350d45929ebff69047260f7934b30b5e9bae
+",2024-05-07 21:17:53+00:00,geospace-code_pymap3d,https://github.com/geospace-code/pymap3d,geospace-code/pymap3d,other,2024-05-07 21:01:10+00:00,2025-01-08 05:09:50+00:00
+geospace-code_pymap3d,bf346085e5ec0a29fc2f3d8406d5f74997a357d9,scivision <scivision@users.noreply.github.com>,1736312990,"eci2ecef: scalar output for scalar input with Numpy backend
+
+add test for Numpy and AstroPy backends
+
+fixes #98
+",2025-01-08 05:09:50+00:00,geospace-code_pymap3d,https://github.com/geospace-code/pymap3d,geospace-code/pymap3d,gap_end,2024-05-07 21:01:10+00:00,2025-01-08 05:09:50+00:00
+geospace-code_pymap3d,39e262da91b282ad11a9dcc830a517ab300dd24f,scivision <scivision@users.noreply.github.com>,1736313348,"ecef2eci: scalar output for scalar input with Numpy backend
+
+add test for Numpy and AstroPy backends
+",2025-01-08 05:15:48+00:00,geospace-code_pymap3d,https://github.com/geospace-code/pymap3d,geospace-code/pymap3d,after_gap_end,2024-05-07 21:01:10+00:00,2025-01-08 05:09:50+00:00
+geospace-code_pymap3d,61a273658292797d3add7f00aade6f94da48b36a,scivision <scivision@users.noreply.github.com>,1736313738,"no Numpy: better error msg on eci*ecef funcs
+",2025-01-08 05:22:18+00:00,geospace-code_pymap3d,https://github.com/geospace-code/pymap3d,geospace-code/pymap3d,after_gap_end,2024-05-07 21:01:10+00:00,2025-01-08 05:09:50+00:00
+geospace-code_pymap3d,e5dc8952f1cf7c67267fffb345569133aac4d9c0,scivision <scivision@users.noreply.github.com>,1736314285,"sidereal: add test and functionalize
+",2025-01-08 05:31:25+00:00,geospace-code_pymap3d,https://github.com/geospace-code/pymap3d,geospace-code/pymap3d,after_gap_end,2024-05-07 21:01:10+00:00,2025-01-08 05:09:50+00:00
+geospace-code_pymap3d,3506b7fd49a32deff31f1376b024f2d2e2842c24,scivision <scivision@users.noreply.github.com>,1736315022,"azel*radec: test, functionalize Vallado non-Astropy
+",2025-01-08 05:43:42+00:00,geospace-code_pymap3d,https://github.com/geospace-code/pymap3d,geospace-code/pymap3d,after_gap_end,2024-05-07 21:01:10+00:00,2025-01-08 05:09:50+00:00
+geospace-code_pymap3d,4df1d2c628554cbd37f4983ea0f47aeed5638c33,scivision <scivision@users.noreply.github.com>,1736315365,"ci: also test Python 3.13
+",2025-01-08 05:49:25+00:00,geospace-code_pymap3d,https://github.com/geospace-code/pymap3d,geospace-code/pymap3d,after_gap_end,2024-05-07 21:01:10+00:00,2025-01-08 05:09:50+00:00
+geospace-code_pymap3d,81fe0089052061b8cc9b7c1ed104fd7db71b0546,scivision <scivision@users.noreply.github.com>,1736315777,"restore import of .latitude and .rcurve
+
+Python import mechanism and computers are faster now than several years ago
+
+fixes #97
+",2025-01-08 05:56:17+00:00,geospace-code_pymap3d,https://github.com/geospace-code/pymap3d,geospace-code/pymap3d,after_gap_end,2024-05-07 21:01:10+00:00,2025-01-08 05:09:50+00:00
+geospace-code_pymap3d,2e4d77fb180a900efc19a3fd446fa2be75bb3e69,scivision <scivision@users.noreply.github.com>,1736316238,"ci: handle minimum python on runner images
+",2025-01-08 06:03:58+00:00,geospace-code_pymap3d,https://github.com/geospace-code/pymap3d,geospace-code/pymap3d,after_gap_end,2024-05-07 21:01:10+00:00,2025-01-08 05:09:50+00:00
+geospace-code_pymap3d,0896d4c8b101424a9dfa26821cba4406d1446ada,Ryan Pavlick <ryan.pavlick@gmail.com>,1737696919,"Adding support for downrange-crossrange-above coordinate conversions with dca.py
+",2025-01-24 05:35:19+00:00,geospace-code_pymap3d,https://github.com/geospace-code/pymap3d,geospace-code/pymap3d,after_gap_end,2024-05-07 21:01:10+00:00,2025-01-08 05:09:50+00:00
+geospace-code_pymap3d,98324edb1689256723bb0960498362a309882db6,Ryan Pavlick <ryan.pavlick@gmail.com>,1740540503,"adding nvector module
+",2025-02-26 03:28:23+00:00,geospace-code_pymap3d,https://github.com/geospace-code/pymap3d,geospace-code/pymap3d,after_gap_end,2024-05-07 21:01:10+00:00,2025-01-08 05:09:50+00:00
+geospace-code_pymap3d,59dc09bd2592fc4afed491d42ac3388a6c645a16,Ryan Pavlick <ryan.pavlick@gmail.com>,1740540972,"adding nvector module
+",2025-02-26 03:36:12+00:00,geospace-code_pymap3d,https://github.com/geospace-code/pymap3d,geospace-code/pymap3d,after_gap_end,2024-05-07 21:01:10+00:00,2025-01-08 05:09:50+00:00
+mansmeg_posteriordb,793622ae72ac73da88f6bdc0a8233cf196139253,Måns Magnusson <MansMeg@users.noreply.github.com>,1631271949,"Merge pull request #239 from stan-dev/development
+
+Development",2021-09-10 11:05:49+00:00,mansmeg_posteriordb,https://github.com/MansMeg/posteriordb,mansmeg/posteriordb,before_gap_start,2021-09-20 13:05:30+00:00,2022-08-09 12:36:37+00:00
+mansmeg_posteriordb,2cffd502a3cec0387f12c7de89a345c5c63a9662,Måns Magnusson <mons.magnusson@gmail.com>,1631275251,"fix
+",2021-09-10 12:00:51+00:00,mansmeg_posteriordb,https://github.com/MansMeg/posteriordb,mansmeg/posteriordb,before_gap_start,2021-09-20 13:05:30+00:00,2022-08-09 12:36:37+00:00
+mansmeg_posteriordb,21eb5d616ec568d8389075c4e6746f6bc4c887b4,Måns Magnusson <mons.magnusson@gmail.com>,1631275381,"Minor fix
+",2021-09-10 12:03:01+00:00,mansmeg_posteriordb,https://github.com/MansMeg/posteriordb,mansmeg/posteriordb,before_gap_start,2021-09-20 13:05:30+00:00,2022-08-09 12:36:37+00:00
+mansmeg_posteriordb,e32a7efc0fd4cdd2b92d5ee8cc62a76c2758df7a,Måns Magnusson <mons.magnusson@gmail.com>,1631275405,"Merge branch 'master' of https://github.com/MansMeg/posterior_database into development
+",2021-09-10 12:03:25+00:00,mansmeg_posteriordb,https://github.com/MansMeg/posteriordb,mansmeg/posteriordb,before_gap_start,2021-09-20 13:05:30+00:00,2022-08-09 12:36:37+00:00
+mansmeg_posteriordb,f6d0449d786833ab874e7734720189918305575c,Måns Magnusson <mons.magnusson@gmail.com>,1631275675,"GA fixes
+",2021-09-10 12:07:55+00:00,mansmeg_posteriordb,https://github.com/MansMeg/posteriordb,mansmeg/posteriordb,before_gap_start,2021-09-20 13:05:30+00:00,2022-08-09 12:36:37+00:00
+mansmeg_posteriordb,fd1a236062b5eaea1ff0cb84f6f44fcf17168d2c,Måns Magnusson <mons.magnusson@gmail.com>,1631277813,"Added badge
+",2021-09-10 12:43:33+00:00,mansmeg_posteriordb,https://github.com/MansMeg/posteriordb,mansmeg/posteriordb,before_gap_start,2021-09-20 13:05:30+00:00,2022-08-09 12:36:37+00:00
+mansmeg_posteriordb,f85d0bf7cfb3c018c08a0e4d09e0524a7276381a,Måns Magnusson <mons.magnusson@gmail.com>,1631277862,"Add space between badges
+",2021-09-10 12:44:22+00:00,mansmeg_posteriordb,https://github.com/MansMeg/posteriordb,mansmeg/posteriordb,before_gap_start,2021-09-20 13:05:30+00:00,2022-08-09 12:36:37+00:00
+mansmeg_posteriordb,ba594a8733c4653d506cedb2486867ecae254216,Måns Magnusson <mons.magnusson@gmail.com>,1631719572,"Update README
+",2021-09-15 15:26:12+00:00,mansmeg_posteriordb,https://github.com/MansMeg/posteriordb,mansmeg/posteriordb,before_gap_start,2021-09-20 13:05:30+00:00,2022-08-09 12:36:37+00:00
+mansmeg_posteriordb,22c62e55c7bcbd2140cceecba9e927a0d7091590,Måns Magnusson <mons.magnusson@gmail.com>,1632141851,"Minor fixes
+",2021-09-20 12:44:11+00:00,mansmeg_posteriordb,https://github.com/MansMeg/posteriordb,mansmeg/posteriordb,before_gap_start,2021-09-20 13:05:30+00:00,2022-08-09 12:36:37+00:00
+mansmeg_posteriordb,9de530ec62551bcd057ca9c5f694b4b91f3758ff,Måns Magnusson <mons.magnusson@gmail.com>,1632143005,"Updated README
+",2021-09-20 13:03:25+00:00,mansmeg_posteriordb,https://github.com/MansMeg/posteriordb,mansmeg/posteriordb,before_gap_start,2021-09-20 13:05:30+00:00,2022-08-09 12:36:37+00:00
+mansmeg_posteriordb,ae12cb16b55253e3019eabeea22743133da2cea1,Måns Magnusson <mons.magnusson@gmail.com>,1632143130,"Bump version
+",2021-09-20 13:05:30+00:00,mansmeg_posteriordb,https://github.com/MansMeg/posteriordb,mansmeg/posteriordb,gap_start,2021-09-20 13:05:30+00:00,2022-08-09 12:36:37+00:00
+mansmeg_posteriordb,5ee7c917b9367f7228fc430cd4e2010b5686cbd8,Bob Carpenter <bcarpenter@flatironinstitute.org>,1656109623,"fixes dog_log in Stan
+",2022-06-24 22:27:03+00:00,mansmeg_posteriordb,https://github.com/MansMeg/posteriordb,mansmeg/posteriordb,other,2021-09-20 13:05:30+00:00,2022-08-09 12:36:37+00:00
+mansmeg_posteriordb,1badb38aa357c32d962fa23c605b7ef545d2d488,Måns Magnusson <mons.magnusson@gmail.com>,1660048597,"Added models
+
+Merge branch 'master' of https://github.com/KaneLindsay/posteriordb into KaneLindsay-master
+
+# Conflicts:
+#	posterior_database/bibliography/references.bib
+",2022-08-09 12:36:37+00:00,mansmeg_posteriordb,https://github.com/MansMeg/posteriordb,mansmeg/posteriordb,gap_end,2021-09-20 13:05:30+00:00,2022-08-09 12:36:37+00:00
+mansmeg_posteriordb,9c724981cc76ee2e6c9939830e8c1bd0a239c84a,Måns Magnusson <mons.magnusson@gmail.com>,1660048626,"Merge branch 'KaneLindsay-master' into development
+",2022-08-09 12:37:06+00:00,mansmeg_posteriordb,https://github.com/MansMeg/posteriordb,mansmeg/posteriordb,after_gap_end,2021-09-20 13:05:30+00:00,2022-08-09 12:36:37+00:00
+mansmeg_posteriordb,fd3273be2644c53c5a375fe738ac6ff09ec75ea6,Måns Magnusson <mons.magnusson@gmail.com>,1660051408,"fix bibtex file
+",2022-08-09 13:23:28+00:00,mansmeg_posteriordb,https://github.com/MansMeg/posteriordb,mansmeg/posteriordb,after_gap_end,2021-09-20 13:05:30+00:00,2022-08-09 12:36:37+00:00
+mansmeg_posteriordb,30b93efe888d071e25d64c5eed3ad9c19048687f,Måns Magnusson <mons.magnusson@gmail.com>,1660063982,"Update fixes
+",2022-08-09 16:53:02+00:00,mansmeg_posteriordb,https://github.com/MansMeg/posteriordb,mansmeg/posteriordb,after_gap_end,2021-09-20 13:05:30+00:00,2022-08-09 12:36:37+00:00
+mansmeg_posteriordb,6e015080d6d75a3b98c1b3e6dee3c3b6a757b6b8,Måns Magnusson <mons.magnusson@gmail.com>,1660064455,"Updates
+",2022-08-09 17:00:55+00:00,mansmeg_posteriordb,https://github.com/MansMeg/posteriordb,mansmeg/posteriordb,after_gap_end,2021-09-20 13:05:30+00:00,2022-08-09 12:36:37+00:00
+mansmeg_posteriordb,3bf2c8ebd16a9159fdf055ba6883a8ea3730b36d,Måns Magnusson <mons.magnusson@gmail.com>,1660307617,"Add dogs models
+",2022-08-12 12:33:37+00:00,mansmeg_posteriordb,https://github.com/MansMeg/posteriordb,mansmeg/posteriordb,after_gap_end,2021-09-20 13:05:30+00:00,2022-08-09 12:36:37+00:00
+mansmeg_posteriordb,fce0f2886f3f7bfd1e1214b804656e4486a5fefc,Måns Magnusson <mons.magnusson@gmail.com>,1660314024,"Update CONTRIBUTING.md
+",2022-08-12 14:20:24+00:00,mansmeg_posteriordb,https://github.com/MansMeg/posteriordb,mansmeg/posteriordb,after_gap_end,2021-09-20 13:05:30+00:00,2022-08-09 12:36:37+00:00
+mansmeg_posteriordb,ce288e20651cd1b4dcc30586c23a80d52a8f5cbb,Måns Magnusson <mons.magnusson@gmail.com>,1660314792,"Updated the content file
+",2022-08-12 14:33:12+00:00,mansmeg_posteriordb,https://github.com/MansMeg/posteriordb,mansmeg/posteriordb,after_gap_end,2021-09-20 13:05:30+00:00,2022-08-09 12:36:37+00:00
+mansmeg_posteriordb,0548b9e43d3445a8ddf2f4a523b8b4b696caa932,Måns Magnusson <mons.magnusson@gmail.com>,1660582457,"Update dogs data and remove reference posteriors
+",2022-08-15 16:54:17+00:00,mansmeg_posteriordb,https://github.com/MansMeg/posteriordb,mansmeg/posteriordb,after_gap_end,2021-09-20 13:05:30+00:00,2022-08-09 12:36:37+00:00
+mansmeg_posteriordb,c46601ca88c8b2b146eb83828eb43e66c659af94,Måns Magnusson <mons.magnusson@gmail.com>,1660592388,"Fixes pdb
+",2022-08-15 19:39:48+00:00,mansmeg_posteriordb,https://github.com/MansMeg/posteriordb,mansmeg/posteriordb,after_gap_end,2021-09-20 13:05:30+00:00,2022-08-09 12:36:37+00:00
+mansmeg_posteriordb,c7ebef841de5d930adf967cf7059f13b01f43228,Måns Magnusson <mons.magnusson@gmail.com>,1660592411,"Final fixes
+",2022-08-15 19:40:11+00:00,mansmeg_posteriordb,https://github.com/MansMeg/posteriordb,mansmeg/posteriordb,after_gap_end,2021-09-20 13:05:30+00:00,2022-08-09 12:36:37+00:00
+markmfredrickson_optmatch,910e621c5a03d1aa61fb11b3d5717b2dd87bd863,josherrickson <josh@errickson.net>,1699470932,"Deploying to gh-pages from @ markmfredrickson/optmatch@609549879cabf1b60fefa497ea22f21fc60f0bb3 🚀
+",2023-11-08 19:15:32+00:00,markmfredrickson_optmatch,https://github.com/markmfredrickson/optmatch,markmfredrickson/optmatch,before_gap_start,2023-11-23 12:53:25+00:00,2024-08-12 16:45:23+00:00
+markmfredrickson_optmatch,f7daec5ba326b65ce59819654cda4c4e1cac9f56,Josh Errickson <josh@errickson.net>,1699470943,"#234 match.on@call adjustments to mdist
+",2023-11-08 19:15:43+00:00,markmfredrickson_optmatch,https://github.com/markmfredrickson/optmatch,markmfredrickson/optmatch,before_gap_start,2023-11-23 12:53:25+00:00,2024-08-12 16:45:23+00:00
+markmfredrickson_optmatch,5c8135dfb9f3f70a9264bbae0f4e5ca998573f6d,josherrickson <josh@errickson.net>,1699471163,"Deploying to gh-pages from @ markmfredrickson/optmatch@f7daec5ba326b65ce59819654cda4c4e1cac9f56 🚀
+",2023-11-08 19:19:23+00:00,markmfredrickson_optmatch,https://github.com/markmfredrickson/optmatch,markmfredrickson/optmatch,before_gap_start,2023-11-23 12:53:25+00:00,2024-08-12 16:45:23+00:00
+markmfredrickson_optmatch,c75664f168964b09da1f68a7a13fd9ea93f3d3d6,Josh Errickson <josh@errickson.net>,1700012866,"Incremment version; update cran-comments for 0.10.7 release
+",2023-11-15 01:47:46+00:00,markmfredrickson_optmatch,https://github.com/markmfredrickson/optmatch,markmfredrickson/optmatch,before_gap_start,2023-11-23 12:53:25+00:00,2024-08-12 16:45:23+00:00
+markmfredrickson_optmatch,0e18cb5b072625ec80aa0474f5988668959733b1,Josh Errickson <josh@errickson.net>,1700013566,"Version number to dev
+",2023-11-15 01:59:26+00:00,markmfredrickson_optmatch,https://github.com/markmfredrickson/optmatch,markmfredrickson/optmatch,before_gap_start,2023-11-23 12:53:25+00:00,2024-08-12 16:45:23+00:00
+markmfredrickson_optmatch,4b215d6f204f77e995b5912d6a1ba0841e4760c5,josherrickson <josh@errickson.net>,1700013774,"Deploying to gh-pages from @ markmfredrickson/optmatch@0e18cb5b072625ec80aa0474f5988668959733b1 🚀
+",2023-11-15 02:02:54+00:00,markmfredrickson_optmatch,https://github.com/markmfredrickson/optmatch,markmfredrickson/optmatch,before_gap_start,2023-11-23 12:53:25+00:00,2024-08-12 16:45:23+00:00
+markmfredrickson_optmatch,32e7d61f806a5e3fa9b573c2ae9a33510c7ba6e7,Josh Errickson <josh@errickson.net>,1700044926,"Fixing version number of NEWS
+",2023-11-15 10:42:06+00:00,markmfredrickson_optmatch,https://github.com/markmfredrickson/optmatch,markmfredrickson/optmatch,before_gap_start,2023-11-23 12:53:25+00:00,2024-08-12 16:45:23+00:00
+markmfredrickson_optmatch,8e37ce131811550784018abdbcd4b7ba93fc1a14,josherrickson <josh@errickson.net>,1700045181,"Deploying to gh-pages from @ markmfredrickson/optmatch@32e7d61f806a5e3fa9b573c2ae9a33510c7ba6e7 🚀
+",2023-11-15 10:46:21+00:00,markmfredrickson_optmatch,https://github.com/markmfredrickson/optmatch,markmfredrickson/optmatch,before_gap_start,2023-11-23 12:53:25+00:00,2024-08-12 16:45:23+00:00
+markmfredrickson_optmatch,943fbefddfab2e9ba95c3a96c48b86b22d7cdb0d,josherrickson <josherrickson@users.noreply.github.com>,1700045855,"Deploying to gh-pages from @ markmfredrickson/optmatch@921fbaccfaed2f2bf93a313803c5c6c30ee6c703 🚀
+",2023-11-15 10:57:35+00:00,markmfredrickson_optmatch,https://github.com/markmfredrickson/optmatch,markmfredrickson/optmatch,before_gap_start,2023-11-23 12:53:25+00:00,2024-08-12 16:45:23+00:00
+markmfredrickson_optmatch,666fe2a26cf50c5feb7994727498e2da34f0a009,Jake Bowers <jwbowers@users.noreply.github.com>,1700708517,"Update DESCRIPTION
+
+Fix Remotes: so that we don't get an ""incomplete final line"" error in R 4.3.2",2023-11-23 03:01:57+00:00,markmfredrickson_optmatch,https://github.com/markmfredrickson/optmatch,markmfredrickson/optmatch,before_gap_start,2023-11-23 12:53:25+00:00,2024-08-12 16:45:23+00:00
+markmfredrickson_optmatch,4d9e3423adc095e591f3d5824d35c0e2c676d6e1,Josh Errickson <josh@errickson.net>,1700744005,"Fix incomplete final line
+",2023-11-23 12:53:25+00:00,markmfredrickson_optmatch,https://github.com/markmfredrickson/optmatch,markmfredrickson/optmatch,gap_start,2023-11-23 12:53:25+00:00,2024-08-12 16:45:23+00:00
+markmfredrickson_optmatch,7a2de4c40bcb182d2670c2cbd026d93fbb0448c8,josherrickson <josh@errickson.net>,1700744350,"Deploying to gh-pages from @ markmfredrickson/optmatch@4d9e3423adc095e591f3d5824d35c0e2c676d6e1 🚀
+",2023-11-23 12:59:10+00:00,markmfredrickson_optmatch,https://github.com/markmfredrickson/optmatch,markmfredrickson/optmatch,other,2023-11-23 12:53:25+00:00,2024-08-12 16:45:23+00:00
+markmfredrickson_optmatch,93a5162ffc266e07438ce83c90f697d5fec5a5f4,Adam Rauh <adam.rauh1@gmail.com>,1721411645,"refactoring of subproblem information
+",2024-07-19 17:54:05+00:00,markmfredrickson_optmatch,https://github.com/markmfredrickson/optmatch,markmfredrickson/optmatch,other,2023-11-23 12:53:25+00:00,2024-08-12 16:45:23+00:00
+markmfredrickson_optmatch,e995c555a8ac11b01174e66f75290c56fc718ca3,Adam Rauh <adam.rauh1@gmail.com>,1721415697,"fixing some bugs
+",2024-07-19 19:01:37+00:00,markmfredrickson_optmatch,https://github.com/markmfredrickson/optmatch,markmfredrickson/optmatch,other,2023-11-23 12:53:25+00:00,2024-08-12 16:45:23+00:00
+markmfredrickson_optmatch,4a0048c8cae81d906830eda234193ae7c6448e06,Adam Rauh <adam.rauh1@gmail.com>,1721420180,"bug fixes
+",2024-07-19 20:16:20+00:00,markmfredrickson_optmatch,https://github.com/markmfredrickson/optmatch,markmfredrickson/optmatch,other,2023-11-23 12:53:25+00:00,2024-08-12 16:45:23+00:00
+markmfredrickson_optmatch,fd31f414df71c9e58195c31aaf90f82556026d7e,Adam Rauh <adam.rauh1@gmail.com>,1721664019,"fixing infinite values issue
+",2024-07-22 16:00:19+00:00,markmfredrickson_optmatch,https://github.com/markmfredrickson/optmatch,markmfredrickson/optmatch,other,2023-11-23 12:53:25+00:00,2024-08-12 16:45:23+00:00
+markmfredrickson_optmatch,9801255bb979186837f417c4f8580f5c0e88f4c2,Adam Rauh <adam.rauh1@gmail.com>,1721672920,"more bug fixes, passes all tests now
+",2024-07-22 18:28:40+00:00,markmfredrickson_optmatch,https://github.com/markmfredrickson/optmatch,markmfredrickson/optmatch,other,2023-11-23 12:53:25+00:00,2024-08-12 16:45:23+00:00
+markmfredrickson_optmatch,9495ffbfbe4dc9136b8944eff427712428b64559,Adam Rauh <adam.rauh1@gmail.com>,1721678052,"allowing tolerance in solve_reg_fm_prob
+",2024-07-22 19:54:12+00:00,markmfredrickson_optmatch,https://github.com/markmfredrickson/optmatch,markmfredrickson/optmatch,other,2023-11-23 12:53:25+00:00,2024-08-12 16:45:23+00:00
+markmfredrickson_optmatch,a460121ac5e32d798499c3565e20a038d94c196a,Adam Rauh <adam.rauh1@gmail.com>,1721880659,"small tweaks to fullmatch
+",2024-07-25 04:10:59+00:00,markmfredrickson_optmatch,https://github.com/markmfredrickson/optmatch,markmfredrickson/optmatch,other,2023-11-23 12:53:25+00:00,2024-08-12 16:45:23+00:00
+markmfredrickson_optmatch,5dfa8115cc9591931d3bc722d1680f256f71c2b7,Adam Rauh <adam.rauh1@gmail.com>,1722265895,"using ISM based solution for rfeas/cfeas/epsilon calcs
+",2024-07-29 15:11:35+00:00,markmfredrickson_optmatch,https://github.com/markmfredrickson/optmatch,markmfredrickson/optmatch,other,2023-11-23 12:53:25+00:00,2024-08-12 16:45:23+00:00
+markmfredrickson_optmatch,432e630210a72b746925bd128237d6e6a266dbc3,Adam Rauh <adam.rauh1@gmail.com>,1722461058,"updating resolution/tolerance code
+",2024-07-31 21:24:18+00:00,markmfredrickson_optmatch,https://github.com/markmfredrickson/optmatch,markmfredrickson/optmatch,other,2023-11-23 12:53:25+00:00,2024-08-12 16:45:23+00:00
+markmfredrickson_optmatch,64dff54a6018bafff8d3686eb344c874e0e89441,Adam Rauh <adam.rauh1@gmail.com>,1722461121,"adding tests
+",2024-07-31 21:25:21+00:00,markmfredrickson_optmatch,https://github.com/markmfredrickson/optmatch,markmfredrickson/optmatch,other,2023-11-23 12:53:25+00:00,2024-08-12 16:45:23+00:00
+markmfredrickson_optmatch,0661bd9b3d4929cb3dd47967c1b425842a55c6c1,Adam Rauh <adam.rauh1@gmail.com>,1722626335,"improving handling of the no-subproblem case
+",2024-08-02 19:18:55+00:00,markmfredrickson_optmatch,https://github.com/markmfredrickson/optmatch,markmfredrickson/optmatch,other,2023-11-23 12:53:25+00:00,2024-08-12 16:45:23+00:00
+markmfredrickson_optmatch,336efb3c125ffb6510e5bc0f4c6665003b44c7c9,Adam Rauh <adam.rauh1@gmail.com>,1722783160,"adding more explicit tests about unnamed resolutions
+",2024-08-04 14:52:40+00:00,markmfredrickson_optmatch,https://github.com/markmfredrickson/optmatch,markmfredrickson/optmatch,other,2023-11-23 12:53:25+00:00,2024-08-12 16:45:23+00:00
+markmfredrickson_optmatch,559929c53d3d95ac68b888a194f2001912b86e49,Adam Rauh <adam.rauh1@gmail.com>,1722789055,"minor cleanup + pmatch
+",2024-08-04 16:30:55+00:00,markmfredrickson_optmatch,https://github.com/markmfredrickson/optmatch,markmfredrickson/optmatch,other,2023-11-23 12:53:25+00:00,2024-08-12 16:45:23+00:00
+markmfredrickson_optmatch,a6874cf45912083dfe083c7dde4d23ad4c0fb8ee,Adam Rauh <adam.rauh1@gmail.com>,1722884266,"fixing documentation
+",2024-08-05 18:57:46+00:00,markmfredrickson_optmatch,https://github.com/markmfredrickson/optmatch,markmfredrickson/optmatch,other,2023-11-23 12:53:25+00:00,2024-08-12 16:45:23+00:00
+markmfredrickson_optmatch,74dd5760b5f52b17d6a77b5f9c0f355d6c3c8c0f,Adam Rauh <adam.rauh1@gmail.com>,1723054022,"fixing infeasibility tracking logic
+",2024-08-07 18:07:02+00:00,markmfredrickson_optmatch,https://github.com/markmfredrickson/optmatch,markmfredrickson/optmatch,other,2023-11-23 12:53:25+00:00,2024-08-12 16:45:23+00:00
+markmfredrickson_optmatch,0a4a9aed3fb81a0fe05b3047277740af1f1c1162,Adam Rauh <adam.rauh1@gmail.com>,1723056263,"replacing lagrangian with primal
+",2024-08-07 18:44:23+00:00,markmfredrickson_optmatch,https://github.com/markmfredrickson/optmatch,markmfredrickson/optmatch,other,2023-11-23 12:53:25+00:00,2024-08-12 16:45:23+00:00
+markmfredrickson_optmatch,46e35703a2ae83c4addd8126d89987f050bea032,Adam Rauh <adam.rauh1@gmail.com>,1723140958,"adjusting primal/dual values to make more substantive sense markmfredrickson/optmatch/#164
+",2024-08-08 18:15:58+00:00,markmfredrickson_optmatch,https://github.com/markmfredrickson/optmatch,markmfredrickson/optmatch,other,2023-11-23 12:53:25+00:00,2024-08-12 16:45:23+00:00
+markmfredrickson_optmatch,5e7dadadee26682e09460f5fb1a4cdb89384be0f,Adam Rauh <adam.rauh1@gmail.com>,1723140994,"switching lagrangian to primal in vignette
+",2024-08-08 18:16:34+00:00,markmfredrickson_optmatch,https://github.com/markmfredrickson/optmatch,markmfredrickson/optmatch,other,2023-11-23 12:53:25+00:00,2024-08-12 16:45:23+00:00
+markmfredrickson_optmatch,aebbde28caf133e54319c3c0be9b125fdc3b23a4,Ben B. Hansen <bbh@umich.edu>,1723232314,"Small updates from devtools::document()
+
+...in case this helps w/ 'ubuntu-latest (devel)' CI compile
+failure (on fork but not in main repo).  If that issue remains,
+this commit can be `git revert`-ed.
+",2024-08-09 19:38:34+00:00,markmfredrickson_optmatch,https://github.com/markmfredrickson/optmatch,markmfredrickson/optmatch,other,2023-11-23 12:53:25+00:00,2024-08-12 16:45:23+00:00
+markmfredrickson_optmatch,280fe5072e2eeb90d86211abf432d5f0f3cc5ab4,Ben B. Hansen <bbh@umich.edu>,1723481123,"roxygen 7.3.2 change
+
+An Rd file has a small change on one line
+",2024-08-12 16:45:23+00:00,markmfredrickson_optmatch,https://github.com/markmfredrickson/optmatch,markmfredrickson/optmatch,gap_end,2023-11-23 12:53:25+00:00,2024-08-12 16:45:23+00:00
+markmfredrickson_optmatch,a392ab09d93d748b1f511cc09613e5067c5a1721,benthestatistician <bbh@umich.edu>,1723481481,"Deploying to gh-pages from @ markmfredrickson/optmatch@280fe5072e2eeb90d86211abf432d5f0f3cc5ab4 🚀
+",2024-08-12 16:51:21+00:00,markmfredrickson_optmatch,https://github.com/markmfredrickson/optmatch,markmfredrickson/optmatch,after_gap_end,2023-11-23 12:53:25+00:00,2024-08-12 16:45:23+00:00
+markmfredrickson_optmatch,1403fa58381d6978fac4dc4252c04b3464a286d1,Josh Errickson <josh@errickson.net>,1724080038,"Adding internal roxygen tags to satisfy CRAN check
+",2024-08-19 15:07:18+00:00,markmfredrickson_optmatch,https://github.com/markmfredrickson/optmatch,markmfredrickson/optmatch,after_gap_end,2023-11-23 12:53:25+00:00,2024-08-12 16:45:23+00:00
+markmfredrickson_optmatch,2eb6507293cb104500ea27d448ee54c3991aadd1,josherrickson <josh@errickson.net>,1724080202,"Deploying to gh-pages from @ markmfredrickson/optmatch@1403fa58381d6978fac4dc4252c04b3464a286d1 🚀
+",2024-08-19 15:10:02+00:00,markmfredrickson_optmatch,https://github.com/markmfredrickson/optmatch,markmfredrickson/optmatch,after_gap_end,2023-11-23 12:53:25+00:00,2024-08-12 16:45:23+00:00
+markmfredrickson_optmatch,ee86b14b7e52961ca8b2e975f59422166f791571,Adam Rauh <adam.rauh1@gmail.com>,1724089705,"merging modified master with nodeprices branch
+",2024-08-19 17:48:25+00:00,markmfredrickson_optmatch,https://github.com/markmfredrickson/optmatch,markmfredrickson/optmatch,after_gap_end,2023-11-23 12:53:25+00:00,2024-08-12 16:45:23+00:00
+markmfredrickson_optmatch,781a480e7f8efb92c1d829043eb226e22b9f961e,Adam Rauh <adam.rauh1@gmail.com>,1724215269,"simplifying feasibility update status, reducing reliance on NULL MCFSolution
+",2024-08-21 04:41:09+00:00,markmfredrickson_optmatch,https://github.com/markmfredrickson/optmatch,markmfredrickson/optmatch,after_gap_end,2023-11-23 12:53:25+00:00,2024-08-12 16:45:23+00:00
+markmfredrickson_optmatch,446cc2b97ed7346ef73e9cba5ff38965d2067c3b,Adam Rauh <adam.rauh1@gmail.com>,1724215936,"removing feas.status tag
+",2024-08-21 04:52:16+00:00,markmfredrickson_optmatch,https://github.com/markmfredrickson/optmatch,markmfredrickson/optmatch,after_gap_end,2023-11-23 12:53:25+00:00,2024-08-12 16:45:23+00:00
+markmfredrickson_optmatch,a133695cfe11754e660e28d04f48563934475d0d,Josh Errickson <josh@errickson.net>,1724230686,"Attempt to fix C errors on Rdevel
+",2024-08-21 08:58:06+00:00,markmfredrickson_optmatch,https://github.com/markmfredrickson/optmatch,markmfredrickson/optmatch,after_gap_end,2023-11-23 12:53:25+00:00,2024-08-12 16:45:23+00:00
+markmfredrickson_optmatch,193d35001a5a4325a6a0deeb24015fcd8766c40d,josherrickson <josh@errickson.net>,1724230841,"Deploying to gh-pages from @ markmfredrickson/optmatch@a133695cfe11754e660e28d04f48563934475d0d 🚀
+",2024-08-21 09:00:41+00:00,markmfredrickson_optmatch,https://github.com/markmfredrickson/optmatch,markmfredrickson/optmatch,after_gap_end,2023-11-23 12:53:25+00:00,2024-08-12 16:45:23+00:00
+markmfredrickson_optmatch,a2e685750d827f3e9cfe5ad7da23093c48b567f4,Josh Errickson <josh@errickson.net>,1724232329,"Bumping GHA version
+",2024-08-21 09:25:29+00:00,markmfredrickson_optmatch,https://github.com/markmfredrickson/optmatch,markmfredrickson/optmatch,after_gap_end,2023-11-23 12:53:25+00:00,2024-08-12 16:45:23+00:00
+markmfredrickson_optmatch,de99ff77f915c9ef046c00a83563922641f0b73f,Josh Errickson <josh@errickson.net>,1724232345,"Another attempt at a fix, following https://github.com/hadley/r-internals
+",2024-08-21 09:25:45+00:00,markmfredrickson_optmatch,https://github.com/markmfredrickson/optmatch,markmfredrickson/optmatch,after_gap_end,2023-11-23 12:53:25+00:00,2024-08-12 16:45:23+00:00
+nexpy_nexpy,7a80edcec5a1f4ebaf890ddc5b27ad5b4f6d2534,Ray Osborn <rayosborn@mac.com>,1647714224,"Default to the root/entry of the selected node
+",2022-03-19 18:23:44+00:00,nexpy_nexpy,https://github.com/nexpy/nexpy,nexpy/nexpy,before_gap_start,2022-04-29 22:07:27+00:00,2022-08-05 21:50:59+00:00
+nexpy_nexpy,ffffb278d899ed6a42c7fe20243424cc5f966b04,Ray Osborn <rayosborn@mac.com>,1647714834,"Default to the root of the selected node.
+",2022-03-19 18:33:54+00:00,nexpy_nexpy,https://github.com/nexpy/nexpy,nexpy/nexpy,before_gap_start,2022-04-29 22:07:27+00:00,2022-08-05 21:50:59+00:00
+nexpy_nexpy,ae010c6326302e3a4b44cc4fe59e575347ac47c3,Ray Osborn <rayosborn@mac.com>,1647717788,"Merge pull request #363 from rayosborn/improve-entry-selection
+
+Improve root/entry selection in pull-down menus",2022-03-19 19:23:08+00:00,nexpy_nexpy,https://github.com/nexpy/nexpy,nexpy/nexpy,before_gap_start,2022-04-29 22:07:27+00:00,2022-08-05 21:50:59+00:00
+nexpy_nexpy,3432e5b64753c8fc170ca832dd6fd4ef3f41bcc5,Ray Osborn <rayosborn@mac.com>,1649782730,"Add option to plot weighted projections
+",2022-04-12 16:58:50+00:00,nexpy_nexpy,https://github.com/nexpy/nexpy,nexpy/nexpy,before_gap_start,2022-04-29 22:07:27+00:00,2022-08-05 21:50:59+00:00
+nexpy_nexpy,fbc93d19863f82bcf4b6b3a134bd44924911637a,Ray Osborn <rayosborn@mac.com>,1649860119,"Set project weight default based on original plot
+",2022-04-13 14:28:39+00:00,nexpy_nexpy,https://github.com/nexpy/nexpy,nexpy/nexpy,before_gap_start,2022-04-29 22:07:27+00:00,2022-08-05 21:50:59+00:00
+nexpy_nexpy,54fe7ada990a4e53fa789bb673a2140337496f03,Ray Osborn <rayosborn@mac.com>,1649861012,"Merge pull request #364 from rayosborn/weight-projections
+
+Weighted projection plots",2022-04-13 14:43:32+00:00,nexpy_nexpy,https://github.com/nexpy/nexpy,nexpy/nexpy,before_gap_start,2022-04-29 22:07:27+00:00,2022-08-05 21:50:59+00:00
+nexpy_nexpy,b6718033a4dcdd052818dffb272f5684f7aa7c73,Ray Osborn <rayosborn@mac.com>,1651088140,"Update requirements for nexusformat
+",2022-04-27 19:35:40+00:00,nexpy_nexpy,https://github.com/nexpy/nexpy,nexpy/nexpy,before_gap_start,2022-04-29 22:07:27+00:00,2022-08-05 21:50:59+00:00
+nexpy_nexpy,a8cc979066710b189ba66362348358f82c0d5bcf,Ray Osborn <rayosborn@mac.com>,1651161648,"Merge pull request #365 from rayosborn/update-requirements
+
+Update requirements for nexusformat",2022-04-28 16:00:48+00:00,nexpy_nexpy,https://github.com/nexpy/nexpy,nexpy/nexpy,before_gap_start,2022-04-29 22:07:27+00:00,2022-08-05 21:50:59+00:00
+nexpy_nexpy,e43861bf89874b2125f4ae4fb98abc2e18a4cb41,Ray Osborn <rayosborn@mac.com>,1651269039,"rebuilt docs
+",2022-04-29 21:50:39+00:00,nexpy_nexpy,https://github.com/nexpy/nexpy,nexpy/nexpy,before_gap_start,2022-04-29 22:07:27+00:00,2022-08-05 21:50:59+00:00
+nexpy_nexpy,341abc2a6e3136f13cf72692e1659f9479f4d684,Ray Osborn <rayosborn@mac.com>,1651269868,"rebuilt docs
+",2022-04-29 22:04:28+00:00,nexpy_nexpy,https://github.com/nexpy/nexpy,nexpy/nexpy,before_gap_start,2022-04-29 22:07:27+00:00,2022-08-05 21:50:59+00:00
+nexpy_nexpy,fb875f416d4082e362411febbee6bbdc43771155,Ray Osborn <rayosborn@mac.com>,1651270047,"Update version number and remove Py3 warning
+",2022-04-29 22:07:27+00:00,nexpy_nexpy,https://github.com/nexpy/nexpy,nexpy/nexpy,gap_start,2022-04-29 22:07:27+00:00,2022-08-05 21:50:59+00:00
+nexpy_nexpy,8d46a2978d436205c02073a97138037429aa2bf9,Ray Osborn <rayosborn@mac.com>,1659736259,"Remove magic menu
+
+It is no longer supported in QtConsole and some commands are deprecated.
+",2022-08-05 21:50:59+00:00,nexpy_nexpy,https://github.com/nexpy/nexpy,nexpy/nexpy,gap_end,2022-04-29 22:07:27+00:00,2022-08-05 21:50:59+00:00
+nexpy_nexpy,eaf3e67a653274cfd673ce6b5f2082378ea3b0a1,Ray Osborn <rayosborn@mac.com>,1661368023,"Fix matplotlib v3.6 compatibility
+",2022-08-24 19:07:03+00:00,nexpy_nexpy,https://github.com/nexpy/nexpy,nexpy/nexpy,after_gap_end,2022-04-29 22:07:27+00:00,2022-08-05 21:50:59+00:00
+nexpy_nexpy,3fffffc94717cd7a8769fa68fa15c3338e190905,Ray Osborn <rayosborn@mac.com>,1661374394,"Fix f-string error
+",2022-08-24 20:53:14+00:00,nexpy_nexpy,https://github.com/nexpy/nexpy,nexpy/nexpy,after_gap_end,2022-04-29 22:07:27+00:00,2022-08-05 21:50:59+00:00
+nexpy_nexpy,5251637473beef6bc19e5cf5b5786a64f1523189,Ray Osborn <rayosborn@mac.com>,1661375926,"Fix bug in masking fitted points
+",2022-08-24 21:18:46+00:00,nexpy_nexpy,https://github.com/nexpy/nexpy,nexpy/nexpy,after_gap_end,2022-04-29 22:07:27+00:00,2022-08-05 21:50:59+00:00
+nexpy_nexpy,583ff10f36168e6cca1a9c6db0205428fa002fb3,Ray Osborn <rayosborn@mac.com>,1661439910,"Make colormaps backwardly compatible
+
+This maintains support for versions of Matplotlib before 3.5.
+",2022-08-25 15:05:10+00:00,nexpy_nexpy,https://github.com/nexpy/nexpy,nexpy/nexpy,after_gap_end,2022-04-29 22:07:27+00:00,2022-08-05 21:50:59+00:00
+nexpy_nexpy,9996d70b10fcd8fff98732f3b0bea03bb1818571,Ray Osborn <rayosborn@mac.com>,1661452567,"Merge pull request #368 from rayosborn/fix-mpl-compatibility
+
+Fix mpl compatibility",2022-08-25 18:36:07+00:00,nexpy_nexpy,https://github.com/nexpy/nexpy,nexpy/nexpy,after_gap_end,2022-04-29 22:07:27+00:00,2022-08-05 21:50:59+00:00
+nexpy_nexpy,d0a54786d787dbce28dfd6e1814e65c7179b1143,Ray Osborn <rayosborn@mac.com>,1662047356,"Update dependencies
+",2022-09-01 15:49:16+00:00,nexpy_nexpy,https://github.com/nexpy/nexpy,nexpy/nexpy,after_gap_end,2022-04-29 22:07:27+00:00,2022-08-05 21:50:59+00:00
+nexpy_nexpy,7247215e525cfc7752d5a66b4041aafcbac4ec78,Ray Osborn <rayosborn@mac.com>,1662049647,"Merge pull request #369 from rayosborn/final-preparations
+
+Update dependencies",2022-09-01 16:27:27+00:00,nexpy_nexpy,https://github.com/nexpy/nexpy,nexpy/nexpy,after_gap_end,2022-04-29 22:07:27+00:00,2022-08-05 21:50:59+00:00
+nexpy_nexpy,be250a1d0d177365afaab0e8866afbc5a08f57c1,Ray Osborn <rayosborn@mac.com>,1663010671,"Fix case where the scan variable is not present
+",2022-09-12 19:24:31+00:00,nexpy_nexpy,https://github.com/nexpy/nexpy,nexpy/nexpy,after_gap_end,2022-04-29 22:07:27+00:00,2022-08-05 21:50:59+00:00
+nexpy_nexpy,5e80ed25217c3df7cce33a1c030c7777a11443ba,Ray Osborn <rayosborn@mac.com>,1663010727,"Stop using temporary file for the virtual dataset
+
+The virtual field is small enough that it can be stored in memory.
+",2022-09-12 19:25:27+00:00,nexpy_nexpy,https://github.com/nexpy/nexpy,nexpy/nexpy,after_gap_end,2022-04-29 22:07:27+00:00,2022-08-05 21:50:59+00:00
+nexpy_nexpy,cbf3aa4415ce057a33a95b59724b25d828b2ced4,Ray Osborn <rayosborn@mac.com>,1663010760,"Fix Conda recipe for ipykernel dependency.
+",2022-09-12 19:26:00+00:00,nexpy_nexpy,https://github.com/nexpy/nexpy,nexpy/nexpy,after_gap_end,2022-04-29 22:07:27+00:00,2022-08-05 21:50:59+00:00
+statistikat_vim,403c32ba2de8de1de80cdc2d153e19da19e618a5,alexkowa <alex@kowarik.net>,1721208879,"Deploying to gh-pages from @ statistikat/VIM@f8bcb4840bc931ff018c463d5bf29eb007f3bf38 🚀
+",2024-07-17 09:34:39+00:00,statistikat_vim,https://github.com/statistikat/VIM,statistikat/vim,before_gap_start,2024-08-19 06:34:53+00:00,2025-04-02 08:34:41+00:00
+statistikat_vim,e44106a5bee4f178999a672c19192f1fed095f66,BirgitKarlhuber <birgit@karlhuber.net>,1722323192,"added some additional functionalities
+",2024-07-30 07:06:32+00:00,statistikat_vim,https://github.com/statistikat/VIM,statistikat/vim,before_gap_start,2024-08-19 06:34:53+00:00,2025-04-02 08:34:41+00:00
+statistikat_vim,b977841e27996b9db5e91fb199ac01869bcf0fe3,Alexander Kowarik <alex@kowarik.net>,1722404478,"Merge pull request #87 from statistikat/master
+
+Update from Master",2024-07-31 05:41:18+00:00,statistikat_vim,https://github.com/statistikat/VIM,statistikat/vim,before_gap_start,2024-08-19 06:34:53+00:00,2025-04-02 08:34:41+00:00
+statistikat_vim,717f0f5bb80614c8513dbbfe6550f20ff76b6bb9,Alexander Kowarik <alex@kowarik.net>,1722404540,Merge branch 'pmm_it_all' into pmm_it_all,2024-07-31 05:42:20+00:00,statistikat_vim,https://github.com/statistikat/VIM,statistikat/vim,before_gap_start,2024-08-19 06:34:53+00:00,2025-04-02 08:34:41+00:00
+statistikat_vim,d86c20dbfd2c338e5b21cbca4f2031263065254c,Alexander Kowarik <alex@kowarik.net>,1722404562,"Merge pull request #86 from BirgitKarlhuber/pmm_it_all
+
+added some new functionalities",2024-07-31 05:42:42+00:00,statistikat_vim,https://github.com/statistikat/VIM,statistikat/vim,before_gap_start,2024-08-19 06:34:53+00:00,2025-04-02 08:34:41+00:00
+statistikat_vim,e6e44aa9f43a9ac7f8d293e72e951ed31d731651,alexkowa <alex@kowarik.net>,1722861323,"vimpute method robust
+",2024-08-05 12:35:23+00:00,statistikat_vim,https://github.com/statistikat/VIM,statistikat/vim,before_gap_start,2024-08-19 06:34:53+00:00,2025-04-02 08:34:41+00:00
+statistikat_vim,41d0811a0da6a20a7972dc77145b2e7c0a6ee4b9,BirgitKarlhuber <117508202+BirgitKarlhuber@users.noreply.github.com>,1722862627,"Merge pull request #3 from statistikat/pmm_it_all
+
+Pmm it all",2024-08-05 12:57:07+00:00,statistikat_vim,https://github.com/statistikat/VIM,statistikat/vim,before_gap_start,2024-08-19 06:34:53+00:00,2025-04-02 08:34:41+00:00
+statistikat_vim,8ea37f292b7d077454a58444aab6b2c5470641f9,Alexander Kowarik <alex@kowarik.net>,1723027072,Update xgboostImpute.Rmd,2024-08-07 10:37:52+00:00,statistikat_vim,https://github.com/statistikat/VIM,statistikat/vim,before_gap_start,2024-08-19 06:34:53+00:00,2025-04-02 08:34:41+00:00
+statistikat_vim,93f41dc533b10ee5f5d092ac63463597a6f4f07c,alexkowa <alex@kowarik.net>,1723027367,"Deploying to gh-pages from @ statistikat/VIM@8ea37f292b7d077454a58444aab6b2c5470641f9 🚀
+",2024-08-07 10:42:47+00:00,statistikat_vim,https://github.com/statistikat/VIM,statistikat/vim,before_gap_start,2024-08-19 06:34:53+00:00,2025-04-02 08:34:41+00:00
+statistikat_vim,6ad95d7e35e46f6b54e44c7f6e329e73e969eeba,BirgitKarlhuber <birgit@karlhuber.net>,1723032441,"change in sequential TRUE
+",2024-08-07 12:07:21+00:00,statistikat_vim,https://github.com/statistikat/VIM,statistikat/vim,before_gap_start,2024-08-19 06:34:53+00:00,2025-04-02 08:34:41+00:00
+statistikat_vim,1c07fa29dc0b2ebce5d861c9dfd8d2ce1b36a99e,Alexander Kowarik <alex@kowarik.net>,1724049293,"Merge pull request #88 from BirgitKarlhuber/pmm_it_all
+
+Pmm it all",2024-08-19 06:34:53+00:00,statistikat_vim,https://github.com/statistikat/VIM,statistikat/vim,gap_start,2024-08-19 06:34:53+00:00,2025-04-02 08:34:41+00:00
+statistikat_vim,e840c0a09a880e875e7c7ef6dfeaa6d298782d09,Alexander Kowarik <alex@kowarik.net>,1743582881,"Merge pull request #89 from statistikat/master
+
+Update xgboostImpute.Rmd",2025-04-02 08:34:41+00:00,statistikat_vim,https://github.com/statistikat/VIM,statistikat/vim,gap_end,2024-08-19 06:34:53+00:00,2025-04-02 08:34:41+00:00
+statistikat_vim,59226aad3faea326f30e4c167df117a4fffae472,Eileen Vattheuer <evatt@xlwp0139.statistik.local>,1744362470,"helpers
+",2025-04-11 09:07:50+00:00,statistikat_vim,https://github.com/statistikat/VIM,statistikat/vim,after_gap_end,2024-08-19 06:34:53+00:00,2025-04-02 08:34:41+00:00
+statistikat_vim,4fedb19713cf4444ad5bf01d500152561b8cacca,Eileen Vattheuer <evatt@xlwp0139.statistik.local>,1744365856,"vimpute
+",2025-04-11 10:04:16+00:00,statistikat_vim,https://github.com/statistikat/VIM,statistikat/vim,after_gap_end,2024-08-19 06:34:53+00:00,2025-04-02 08:34:41+00:00
+statistikat_vim,13a647dbfe826074851531c1affc0b6d9fe86a69,Eileen Vattheuer <evatt@xlwp0139.statistik.local>,1744366227,"vimpute fin
+",2025-04-11 10:10:27+00:00,statistikat_vim,https://github.com/statistikat/VIM,statistikat/vim,after_gap_end,2024-08-19 06:34:53+00:00,2025-04-02 08:34:41+00:00
+statistikat_vim,2c0c1ea9dc0acfdaa0cc2e284f72a4ab644c7e8f,Eileen Vattheuer <evatt@xlwp0139.statistik.local>,1744368397,"vig
+",2025-04-11 10:46:37+00:00,statistikat_vim,https://github.com/statistikat/VIM,statistikat/vim,after_gap_end,2024-08-19 06:34:53+00:00,2025-04-02 08:34:41+00:00
+statistikat_vim,b19f6af88981800f763ec060c1ecb28a5f7f934a,Eileen Vattheuer <evatt@xlwp0139.statistik.local>,1744612529,"data.table
+",2025-04-14 06:35:29+00:00,statistikat_vim,https://github.com/statistikat/VIM,statistikat/vim,after_gap_end,2024-08-19 06:34:53+00:00,2025-04-02 08:34:41+00:00
+statistikat_vim,7eb017d4c7584ab32dad94ca67344dda7b016c58,eileenva <evatt@xlwp0139.statistik.local>,1744786707,"nthreads (xgboost)
+",2025-04-16 06:58:27+00:00,statistikat_vim,https://github.com/statistikat/VIM,statistikat/vim,after_gap_end,2024-08-19 06:34:53+00:00,2025-04-02 08:34:41+00:00
+statistikat_vim,79a2fa3e1e1134cc21b7f0d5078d079e775f4c0a,eileenva <evatt@xlwp0139.statistik.local>,1745416534,"small changes
+",2025-04-23 13:55:34+00:00,statistikat_vim,https://github.com/statistikat/VIM,statistikat/vim,after_gap_end,2024-08-19 06:34:53+00:00,2025-04-02 08:34:41+00:00
+statistikat_vim,98b5b64c1f51ba77612906c6c3e6a1b7327f2948,eileenva <evatt@xlwp0139.statistik.local>,1745417875,"com
+",2025-04-23 14:17:55+00:00,statistikat_vim,https://github.com/statistikat/VIM,statistikat/vim,after_gap_end,2024-08-19 06:34:53+00:00,2025-04-02 08:34:41+00:00
+statistikat_vim,f4333f87de803762440deac30f7653ff80272561,alexkowa <alex@kowarik.net>,1746424300,"VIM logo
+",2025-05-05 05:51:40+00:00,statistikat_vim,https://github.com/statistikat/VIM,statistikat/vim,after_gap_end,2024-08-19 06:34:53+00:00,2025-04-02 08:34:41+00:00
+statistikat_vim,7ef0e4ea6a3ab81d8ef66f0c1957c7bdf9379b53,alexkowa <alex@kowarik.net>,1746424620,"Deploying to gh-pages from @ statistikat/VIM@f4333f87de803762440deac30f7653ff80272561 🚀
+",2025-05-05 05:57:00+00:00,statistikat_vim,https://github.com/statistikat/VIM,statistikat/vim,after_gap_end,2024-08-19 06:34:53+00:00,2025-04-02 08:34:41+00:00
+tompollard_tableone,363acc5262733b203289861369ec7ef1c9057cd7,Tom Pollard <tpollard@mit.edu>,1597871445,"wrap class with function
+",2020-08-19 21:10:45+00:00,tompollard_tableone,https://github.com/tompollard/tableone,tompollard/tableone,before_gap_start,2021-01-04 03:18:49+00:00,2022-08-16 20:32:21+00:00
+tompollard_tableone,6ef97310ad61a09668c66c251f8a3ed4fe4c310d,Tom Pollard <tpollard@mit.edu>,1597871492,"bump version
+",2020-08-19 21:11:32+00:00,tompollard_tableone,https://github.com/tompollard/tableone,tompollard/tableone,before_gap_start,2021-01-04 03:18:49+00:00,2022-08-16 20:32:21+00:00
+tompollard_tableone,00e2357f51113555de5ced7ef302f028b1fcac86,Tom Pollard <tpollard@mit.edu>,1597887187,"add type hints
+",2020-08-20 01:33:07+00:00,tompollard_tableone,https://github.com/tompollard/tableone,tompollard/tableone,before_gap_start,2021-01-04 03:18:49+00:00,2022-08-16 20:32:21+00:00
+tompollard_tableone,0448c0a4ae1568603203ecfee3a883c735c0d790,Tom Pollard <tpollard@mit.edu>,1602795212,"bump version
+",2020-10-15 20:53:32+00:00,tompollard_tableone,https://github.com/tompollard/tableone,tompollard/tableone,before_gap_start,2021-01-04 03:18:49+00:00,2022-08-16 20:32:21+00:00
+tompollard_tableone,54c6b8417b0c863e1782f71c0b678343556ac4d1,Tom Pollard <tpollard@mit.edu>,1602799142,"make test for normality, multimodality, and outliers optional. ref #103
+",2020-10-15 21:59:02+00:00,tompollard_tableone,https://github.com/tompollard/tableone,tompollard/tableone,before_gap_start,2021-01-04 03:18:49+00:00,2022-08-16 20:32:21+00:00
+tompollard_tableone,9eb3b245c17975dba2552c157d36907fcdb2ff1c,Tom Pollard <tpollard@mit.edu>,1602799249,"remarks is deprecated
+",2020-10-15 22:00:49+00:00,tompollard_tableone,https://github.com/tompollard/tableone,tompollard/tableone,before_gap_start,2021-01-04 03:18:49+00:00,2022-08-16 20:32:21+00:00
+tompollard_tableone,8eef78f6f76d2f3ba9fddc1ee0dec23dff541f3f,Tom Pollard <tpollard@mit.edu>,1602801935,"Merge pull request #104 from tompollard/test_args
+
+Deprecate ""remarks"" arg. Add args for Tukey test, Hartigan's diptest, and normality test.",2020-10-15 22:45:35+00:00,tompollard_tableone,https://github.com/tompollard/tableone,tompollard/tableone,before_gap_start,2021-01-04 03:18:49+00:00,2022-08-16 20:32:21+00:00
+tompollard_tableone,5b3d64426e0d6cc9877fe38690fed190510b2c74,Tom Pollard <tpollard@mit.edu>,1602863534,"note for older versions
+",2020-10-16 15:52:14+00:00,tompollard_tableone,https://github.com/tompollard/tableone,tompollard/tableone,before_gap_start,2021-01-04 03:18:49+00:00,2022-08-16 20:32:21+00:00
+tompollard_tableone,77b1039d54e7f9d133f13d1a3a5172ac79c91e17,Tom Pollard <tpollard@mit.edu>,1609729793,"add option to calculate percentages over a row rather than column. ref #108
+",2021-01-04 03:09:53+00:00,tompollard_tableone,https://github.com/tompollard/tableone,tompollard/tableone,before_gap_start,2021-01-04 03:18:49+00:00,2022-08-16 20:32:21+00:00
+tompollard_tableone,d89fde9350e7afec5219710fa812bf4efe283025,Tom Pollard <tpollard@mit.edu>,1609730232,"bump version
+",2021-01-04 03:17:12+00:00,tompollard_tableone,https://github.com/tompollard/tableone,tompollard/tableone,before_gap_start,2021-01-04 03:18:49+00:00,2022-08-16 20:32:21+00:00
+tompollard_tableone,938fdf973cdf7e8ffa787c075b394ca2ff78907b,Tom Pollard <tpollard@mit.edu>,1609730329,"Merge pull request #110 from tompollard/row_percent
+
+add option to calculate ""n(%)"" percentages over a row. Ref #108",2021-01-04 03:18:49+00:00,tompollard_tableone,https://github.com/tompollard/tableone,tompollard/tableone,gap_start,2021-01-04 03:18:49+00:00,2022-08-16 20:32:21+00:00
+tompollard_tableone,435d1d1dc66c98bc32523c912dd3c1d9f8416dc0,jakob <jakob1379@gmail.com>,1612531260,"added `chi_correction` as argument since you risk overfitting the data
+",2021-02-05 13:21:00+00:00,tompollard_tableone,https://github.com/tompollard/tableone,tompollard/tableone,other,2021-01-04 03:18:49+00:00,2022-08-16 20:32:21+00:00
+tompollard_tableone,7c37507b21f29978338be56bcadb26af4d0aa5cf,jakob <jakob1379@gmail.com>,1614525232,"improved readability - only added code is check and correction for ""<""
+",2021-02-28 15:13:52+00:00,tompollard_tableone,https://github.com/tompollard/tableone,tompollard/tableone,other,2021-01-04 03:18:49+00:00,2022-08-16 20:32:21+00:00
+tompollard_tableone,24c1ffa1b32f0bd17ea5d55504c90e61acda896f,jakob <jakob1379@gmail.com>,1614525881,"reverted to original tableone without mods
+",2021-02-28 15:24:41+00:00,tompollard_tableone,https://github.com/tompollard/tableone,tompollard/tableone,other,2021-01-04 03:18:49+00:00,2022-08-16 20:32:21+00:00
+tompollard_tableone,d03d7fd1775939afb2f5f23715bf961da95aa6df,Jakob Guldberg Aaes <17257805+jakob1379@users.noreply.github.com>,1614525904,"Merge 24c1ffa1b32f0bd17ea5d55504c90e61acda896f into 938fdf973cdf7e8ffa787c075b394ca2ff78907b
+",2021-02-28 15:25:04+00:00,tompollard_tableone,https://github.com/tompollard/tableone,tompollard/tableone,other,2021-01-04 03:18:49+00:00,2022-08-16 20:32:21+00:00
+tompollard_tableone,b961ff0e98f3731353e402df419f87c7ea68c6f2,jakob <jakob1379@gmail.com>,1614526180,"corrected ""<"" for latex mode
+",2021-02-28 15:29:40+00:00,tompollard_tableone,https://github.com/tompollard/tableone,tompollard/tableone,other,2021-01-04 03:18:49+00:00,2022-08-16 20:32:21+00:00
+tompollard_tableone,26a66d3979f068c439f2d05a5d653eb149eadb48,Jakob Guldberg Aaes <17257805+jakob1379@users.noreply.github.com>,1614526404,"Merge b961ff0e98f3731353e402df419f87c7ea68c6f2 into 938fdf973cdf7e8ffa787c075b394ca2ff78907b
+",2021-02-28 15:33:24+00:00,tompollard_tableone,https://github.com/tompollard/tableone,tompollard/tableone,other,2021-01-04 03:18:49+00:00,2022-08-16 20:32:21+00:00
+tompollard_tableone,a056bc27a5632c4261c7dee03b01c35ac9e39746,dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>,1655500539,"Bump numpy from 1.12.1 to 1.21.0
+
+Bumps [numpy](https://github.com/numpy/numpy) from 1.12.1 to 1.21.0.
+- [Release notes](https://github.com/numpy/numpy/releases)
+- [Changelog](https://github.com/numpy/numpy/blob/main/doc/HOWTO_RELEASE.rst)
+- [Commits](https://github.com/numpy/numpy/compare/v1.12.1...v1.21.0)
+
+---
+updated-dependencies:
+- dependency-name: numpy
+  dependency-type: direct:production
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>",2022-06-17 21:15:39+00:00,tompollard_tableone,https://github.com/tompollard/tableone,tompollard/tableone,other,2021-01-04 03:18:49+00:00,2022-08-16 20:32:21+00:00
+tompollard_tableone,1d1e796beae3abb4a16d150f14467ebe968ab820,dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>,1655846205,"Bump numpy from 1.12.1 to 1.22.0
+
+Bumps [numpy](https://github.com/numpy/numpy) from 1.12.1 to 1.22.0.
+- [Release notes](https://github.com/numpy/numpy/releases)
+- [Changelog](https://github.com/numpy/numpy/blob/main/doc/HOWTO_RELEASE.rst)
+- [Commits](https://github.com/numpy/numpy/compare/v1.12.1...v1.22.0)
+
+---
+updated-dependencies:
+- dependency-name: numpy
+  dependency-type: direct:production
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>",2022-06-21 21:16:45+00:00,tompollard_tableone,https://github.com/tompollard/tableone,tompollard/tableone,other,2021-01-04 03:18:49+00:00,2022-08-16 20:32:21+00:00
+tompollard_tableone,b48a2bb517ef905a0892e78da1d09f2de444830d,Lucas Bulgarelli <lucas.bulgarelli@endpointhealth.com>,1660681941,"update requirements
+",2022-08-16 20:32:21+00:00,tompollard_tableone,https://github.com/tompollard/tableone,tompollard/tableone,gap_end,2021-01-04 03:18:49+00:00,2022-08-16 20:32:21+00:00
+tompollard_tableone,6959eeae75d36e522a9b7944eb490291bc104e8c,Lucas Bulgarelli <lucas.bulgarelli@endpointhealth.com>,1660682008,"replace nose with pytest
+",2022-08-16 20:33:28+00:00,tompollard_tableone,https://github.com/tompollard/tableone,tompollard/tableone,after_gap_end,2021-01-04 03:18:49+00:00,2022-08-16 20:32:21+00:00
+tompollard_tableone,e024a60ded6519a88a26c6135ab6e8ef4f4193f1,Lucas Bulgarelli <lucas.bulgarelli@endpointhealth.com>,1660682848,"move test file
+",2022-08-16 20:47:28+00:00,tompollard_tableone,https://github.com/tompollard/tableone,tompollard/tableone,after_gap_end,2021-01-04 03:18:49+00:00,2022-08-16 20:32:21+00:00
+tompollard_tableone,f281168f5f7ff3cb1eb97c57a1845f32d3f42a64,Lucas Bulgarelli <lucas.bulgarelli@endpointhealth.com>,1660685964,"add init files to test dirs
+",2022-08-16 21:39:24+00:00,tompollard_tableone,https://github.com/tompollard/tableone,tompollard/tableone,after_gap_end,2021-01-04 03:18:49+00:00,2022-08-16 20:32:21+00:00
+tompollard_tableone,dc7520dc52061fdb6ccf36ccfec7ad50c499045f,Lucas Bulgarelli <lucas.bulgarelli@endpointhealth.com>,1660685980,"update fixtures and test functions to use pytest
+",2022-08-16 21:39:40+00:00,tompollard_tableone,https://github.com/tompollard/tableone,tompollard/tableone,after_gap_end,2021-01-04 03:18:49+00:00,2022-08-16 20:32:21+00:00
+tompollard_tableone,c9a7d4368f7644c7fd39c81546b612c2b6e8f8e4,Lucas Bulgarelli <lucas.bulgarelli@endpointhealth.com>,1660688106,"replace travis with github workflow
+",2022-08-16 22:15:06+00:00,tompollard_tableone,https://github.com/tompollard/tableone,tompollard/tableone,after_gap_end,2021-01-04 03:18:49+00:00,2022-08-16 20:32:21+00:00
+tompollard_tableone,6340df949a7c36a592e75957e34073ecf0ce6ed8,Lucas Bulgarelli <lucas.bulgarelli@endpointhealth.com>,1660689532,"break lines over 79 chars
+",2022-08-16 22:38:52+00:00,tompollard_tableone,https://github.com/tompollard/tableone,tompollard/tableone,after_gap_end,2021-01-04 03:18:49+00:00,2022-08-16 20:32:21+00:00
+tompollard_tableone,5792d38a7d5a8cab2aad7b165a7f31e14d909001,Lucas Bulgarelli <lucas.bulgarelli@endpointhealth.com>,1660692663,"updates to remove deprecation warnings
+",2022-08-16 23:31:03+00:00,tompollard_tableone,https://github.com/tompollard/tableone,tompollard/tableone,after_gap_end,2021-01-04 03:18:49+00:00,2022-08-16 20:32:21+00:00
+tompollard_tableone,38a653a6327254fdaa57723052f5d1b1e4cce06b,Tom Pollard <tpollard@mit.edu>,1660743920,"Merge pull request #125 from tompollard/update-req
+
+Update requirements, workflow, and tests",2022-08-17 13:45:20+00:00,tompollard_tableone,https://github.com/tompollard/tableone,tompollard/tableone,after_gap_end,2021-01-04 03:18:49+00:00,2022-08-16 20:32:21+00:00
+tompollard_tableone,a0bffedd683483e4c018bec20dc9436dd2471ee3,Tom Pollard <tpollard@mit.edu>,1660744697,"Merge pull request #126 from tompollard/warnings
+
+Updates to remove deprecation warnings",2022-08-17 13:58:17+00:00,tompollard_tableone,https://github.com/tompollard/tableone,tompollard/tableone,after_gap_end,2021-01-04 03:18:49+00:00,2022-08-16 20:32:21+00:00
+tompollard_tableone,9318129191dbb148610cace7610d2a4f3ba8d5dd,Tom Pollard <tpollard@mit.edu>,1660751878,"add pbc dataset.
+",2022-08-17 15:57:58+00:00,tompollard_tableone,https://github.com/tompollard/tableone,tompollard/tableone,after_gap_end,2021-01-04 03:18:49+00:00,2022-08-16 20:32:21+00:00
